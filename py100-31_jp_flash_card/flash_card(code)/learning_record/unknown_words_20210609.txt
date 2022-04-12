@@ -1,0 +1,186 @@
+Practice time:04:26:56 PM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. 壇(だん): 1. platform, podium, rostrum, 2. (arch) mandala
+2. 原油(げんゆ): crude oil
+3. 日当(にっとう): daily allowance
+4. 育成(いくせい): rearing, training, nurture, cultivation, promotion
+5. 取り締まり(とりしまり): control, management, supervision
+6. 近々(きんきん): nearness, before long
+7. 帳(とばり): curtain
+8. 出社(しゅっしゃ): arrival (in a country at work etc.)
+9. 何時でも(いつでも): (at) any time, always, at all times, never (neg), whenever
+10. 著(ちゃく): counter for suits of clothing, arriving at ..
+11. 個々(ここ): individual, one by one
+12. 早急(さっきゅう): urgent
+13. 屡(しばしば): often, again and again, frequently
+14. 和やか(なごやか): mild, calm, gentle, quiet, harmonious
+
+
+Practice time:04:27:46 PM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. 生温い(なまぬるい): lukewarm, halfhearted
+2. 倣(ほう): imitate, follow, emulate
+3. でかい: huge
+4. 一別(いちべつ): parting
+5. 起点(きてん): starting point
+6. ふんだん: plentiful, abundant, lavish
+7. 進度(しんど): progress
+8. 尽きる(つきる): to be used up, to be run out, to be exhausted, to be consumed, to come to an end
+9. 観(かん): look, appearance, spectacle
+
+
+Practice time:04:28:35 PM	Resource: ./jp2csv/jp_n5
+-------------unknown words list follow-----------------
+1. りっぱ: splendid
+2. 狭い(せまい): narrow
+3. 七つ(ななつ): seven
+4. 百(ひゃく): hundred
+5. 薬(くすり): medicine
+6. 子供(こども): child
+7. 習う(ならう): to learn
+8. 休み(やすみ): rest,holiday
+9. 疲れる(つかれる): to get tired
+10. 咲く(さく): to bloom
+11. 今年(ことし): this year
+12. 切る(きる): to cut
+13. 大使館(たいしかん): embassy
+14. 交番(こうばん): police box
+15. 吹く(ふく): to blow
+16. ページ: page
+17. 押す(おす): to push, to stamp something
+18. 出口(でぐち): exit
+19. 来年(らいねん): next year
+20. 中(なか): middle
+21. 来月(らいげつ): next month
+22. 町(まち): town,city
+23. 仕事(しごと): job
+24. 勉強(べんきょうする): to study
+25. 灰皿(はいざら): ashtray
+26. 駅(えき): station
+27. 広い(ひろい): spacious,wide
+28. テスト: test
+29. この: this
+30. 一緒(いっしょ): together
+
+
+Practice time:04:29:06 PM	Resource: ./jp2csv/jp_n5
+-------------unknown words list follow-----------------
+1. 始まる(はじまる): to begin
+2. ホテル: hotel
+3. 吸う(すう): to smoke,to suck
+
+
+Practice time:04:30:58 PM	Resource: ./jp2csv/jp_n5
+-------------unknown words list follow-----------------
+1. お菓子(おかし): sweets, candy
+2. 熱い(あつい): hot to the touch
+3. 六(ろく): six
+4. 教室(きょうしつ): classroom
+5. 明日(あした): tomorrow
+6. 銀行(ぎんこう): bank
+7. 洗濯(せんたく): washing
+8. 賑やか(にぎやか): bustling,busy
+9. 隣(となり): next door to
+10. 速い(はやい): quick
+11. 押す(おす): to push, to stamp something
+12. お母さん(おかあさん): (honorable) mother
+13. いろいろ: various
+14. ハンカチ: handkerchief
+15. 会社(かいしゃ): company
+16. 誰(だれか): somebody
+17. 今晩(こんばん): this evening
+18. 分かる(わかる): to be understood
+19. ポケット: pocket
+20. ラジオ: radio
+21. 本(ほん): book
+22. おなか: stomach
+23. 大きな(おおきな): big
+24. 高い(たかい): tall, expensive
+25. 兄(あに): (humble) older brother
+26. これ: this
+27. 甘い(あまい): sweet
+28. 一昨年(おととし): year before last
+29. 夕飯(ゆうはん): dinner
+30. 差す(さす): to stretch out hands,to raise an umbrella
+31. ネクタイ: tie,necktie
+32. キロ/キログラム: kilogram
+33. 家(いえ): house
+34. 子供(こども): child
+35. 十(じゅう/とお): ten
+36. 池(いけ): pond
+37. 庭(にわ): garden
+38. 皆さん(みなさん): everyone
+39. 下手(へた): unskillful
+40. 雨(あめ): rain
+41. 毎年(まいねん/まいとし): every year
+42. 出す(だす): to put out
+43. 部屋(へや): room
+44. 電話(でんわ): telephone
+45. 外国人(がいこくじん): foreigner
+46. 痛い(いたい): painful
+47. 風邪(かぜ): a cold
+48. 教室(きょうしつ): classroom
+49. まだ: yet,still
+50. 入口(いりぐち): entrance
+51. 出す(だす): to put out
+52. 木(き): tree,wood
+53. ニュース: news
+54. 二日(ふつか): two days, second day of the month
+55. 冬(ふゆ): winter
+56. 今日(きょう): today
+57. 誰(だれか): somebody
+58. たばこ: tobacco,cigarettes
+59. 眼鏡(めがね): glasses
+60. 生徒(せいと): pupil
+61. 歯(は): tooth
+62. まっすぐ: straight ahead,direct
+63. 聞く(きく): to hear,to listen to,to ask
+64. 汚い(きたない): dirty
+65. 向こう(むこう): over there
+66. どう: how,in what way
+67. いかが: how
+68. 二十歳(はたち): 20 years old,20th year
+69. こんな: such
+70. お菓子(おかし): sweets, candy
+71. そこ: that place
+72. 物(もの): thing
+73. 本(ほん): book
+74. ナイフ: knife
+75. 果物(くだもの): fruit
+76. 晩御飯(ばんごはん): evening meal
+77. 辺(へん): area
+78. 南(みなみ): south
+79. 大切(たいせつ): important
+80. 辛い(からい): spicy
+81. テスト: test
+82. 国(くに): country
+83. 時計(とけい): watch,clock
+84. 後ろ(うしろ): behind
+85. 昨夜(ゆうべ): last night
+86. そこ: that place
+87. ニュース: news
+88. どう: how,in what way
+89. 授業(じゅぎょう): lesson,class work
+90. ちょうど: exactly
+91. 立つ(たつ): to stand
+92. 黄色(きいろ): yellow
+93. 外国(がいこく): foreign country
+94. 頭(あたま): head
+95. 丈夫(じょうぶ): strong,durable
+96. 十日(とおか): ten days,the tenth day
+97. かかる: to take time or money
+98. 持つ(もつ): to hold
+99. 自分(じぶん): oneself
+100. 日曜日(にちようび): Sunday
+101. 野菜(やさい): vegetable
+102. 持つ(もつ): to hold
+103. 消える(きえる): to disappear
+104. 図書館(としょかん): library
+105. たいへん: very
+106. 白い(しろい): white
+107. それでは: in that situation
+108. 時計(とけい): watch,clock
+109. 昼(ひる): noon, daytime
+110. ポスト: post
+111. 止まる(とまる): to come to a halt
+112. お兄さん(おにいさん): (honorable) older brother

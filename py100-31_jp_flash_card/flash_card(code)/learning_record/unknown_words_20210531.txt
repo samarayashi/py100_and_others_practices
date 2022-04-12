@@ -1,0 +1,304 @@
+Practice time:231111	Resource: ./jp2csv/jp_n1-------------unknown words list follow---------資金(しきん), funds capital中立(ちゅうりつ), neutrality着目(ちゃくもく), attention適性(てきせい), aptitude
+
+Practice time:231144	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow---------
+無礼(ぶれい), impolite rude登録(とうろく), registration register entry record過労(かろう), overwork strain
+
+Practice time:231231	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow---------
+済ます(すます), to finish to get it over with to settle to conclude to pay back/n達成(たっせい), achievement/n
+
+Practice time:231307	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow---------
+
+
+Practice time:231322	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow---------
+ハンガー, hangar (coat) hanger hunger
+綴じる(とじる), to bind to file
+お宮(おみや), Shinto shrine
+
+
+Practice time:231450	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. 振興(しんこう), promotion encouragement
+2. 屎尿(しにょう), excreta raw sewage human waste night soil
+3. 空腹(くうふく), hunger
+4. 鉛(なまり), lead (the metal)
+5. 仮(か), tentative provisional
+6. 仕付ける(しつける), to be used to a job to begin to do to baste to tack to plant
+7. 着手(ちゃくしゅ), embarkation launch
+8. 熱意(ねつい), zeal enthusiasm
+
+
+Practice time:231550	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. 先代,(せんだい): family predecessor, previous age, previous generation
+2. 立法,(りっぽう): legislation, lawmaking
+3. 譲歩,(じょうほ): concession, conciliation, compromise
+4. 司る,(つかさどる): to rule, to govern, to administer
+5. 臨む,(のぞむ): to look out on, to face, to deal with, to attend (function)
+
+
+Practice time:231810	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. 滅亡(めつぼう): downfall, ruin, collapse, destruction
+2. 転落(てんらく): fall, degradation, slump
+3. 込める(こめる): to include, to put into
+4. 絶つ(たつ): to sever, to cut off, to suppress, to abstain (from)
+5. 街頭(がいとう): in the street
+6. 偏(へん): side, left radical of a character, inclining, inclining toward, biased
+
+
+Practice time:11:21:43 PM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. 使用人(しようにん): employee, servant
+2. 密か(ひそか): secret, private, surreptitious
+3. 議事堂(ぎじどう): Diet building
+
+
+Practice time:11:22:39 PM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. ふんだん: plentiful, abundant, lavish
+2. 悪者(わるもの): bad fellow, rascal, ruffian, scoundrel
+3. 重宝(じゅうほう): priceless treasure, convenience, usefulness
+4. 促す(うながす): to urge, to press, to suggest, to demand, to stimulate, to quicken, to incite, to invite (attention to)
+5. ブルー: blue
+6. 過密(かみつ): crowded
+
+
+Practice time:11:23:41 PM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+
+
+Practice time:11:26:43 PM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+
+
+Practice time:11:30:48 PM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. 外相(がいしょう): Foreign Minister
+2. 其れでも(それでも): but (still), and yet, nevertheless, even so, notwithstanding
+
+
+Practice time:11:34:42 PM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+
+
+Practice time:11:37:20 PM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. 無闇に(むやみに): unreasonably, absurdly, recklessly, indiscreetly, at random
+2. レギュラー: regular
+3. 控える(ひかえる): to draw in, to hold back, to make notes, to be temperate in
+4. 中指(ちゅうし): middle finger
+5. 勤務(きんむ): service, duty, work
+6. 何しろ(なにしろ): at any rate, anyhow, anyway, in any case
+7. 突っ張る(つっぱる): to support, to become stiff, to become taut, to thrust (ones opponent), to stick to (ones opinion), to in
+8. 真珠(しんじゅ): pearl
+9. 達成(たっせい): achievement
+10. 出社(しゅっしゃ): arrival (in a country at work etc.)
+11. 弁解(べんかい): explanation, justification, defence, excuse
+12. 上がる(あがる): to enter, to go up, to rise, to climb up, to advance, to appreciate, to be promoted, to improve, to call on,
+13. 戸(こ): counter for houses
+14. 手軽(てがる): easy, simple, informal, offhand, cheap
+15. 見地(けんち): point of view
+16. 乙(おつ): 1. strange, quaint, stylish, chic, spicy, queer, witty, tasty, romantic, 2. 2nd in rank, second sign of the
+17. 誤差(ごさ): error
+18. 紳士(しんし): gentleman
+19. 仕舞う(しまう): to finish, to close, to do something completely, to put away, to put an end to
+20. 如何して(どうして): why?, for what reason, how, in what way, for what purpose, what for
+21. タイムリー: timely, run-batted-in (baseball), RBI
+22. 危害(きがい): injury, harm, danger
+23. 取り組む(とりくむ): to tackle, to wrestle with, to engage in a bout, to come to grips with
+24. 上位(じょうい): superior (rank not class), higher order (e.g. byte), host computer (of connected device)
+25. 思考(しこう): thought
+26. 選考(せんこう): selection, screening
+27. 判(はん): seal, stamp, monogram signature, judgment
+28. 遥か(はるか): far, far-away, distant, remote, far off
+29. 禁物(きんもつ): taboo, forbidden thing
+30. 情け深い(なさけぶかい): tender-hearted, compassionate
+31. 強まる(つよまる): to get strong, to gain strength
+32. 商人(あきうど): trader, shopkeeper, merchant
+33. 肉体(にくたい): the body, the flesh
+34. 直ぐ(すぐ): immediately, soon, easily, right (near), honest, upright
+35. 格(かく): status, character, case
+36. カンニング: cunning, cheat
+37. 僕(しもべ): manservant, servant (of God)
+38. かも知れない(かもしれない): may, might, perhaps, may be, possibly
+39. 未熟(みじゅく): inexperience, unripeness, raw, unskilled, immature, inexperienced
+40. 是非とも(ぜひとも): by all means (with sense of not taking no for an answer)
+41. 天才(てんさい): genius, prodigy, natural gift
+42. 所が(ところが): however, while, even if
+43. 頃(けい): time, about, toward, approximately (time)
+44. 株式(かぶしき): stock (company)
+45. 切実(せつじつ): compelling, serious, severe, acute, earnest, pressing, urgent
+46. 恋する(こいする): to fall in love with, to love
+47. 地主(じぬし): landlord
+48. 甘い(うまい): delicious
+49. 化ける(ばける): to appear in disguise, to take the form of, to change for the worse
+50. 壷(つぼ): tsubo jar, pot, vase
+51. 不服(ふふく): dissatisfaction, discontent, disapproval, objection, complaint, protest, disagreement
+52. 特権(とっけん): privilege, special right
+53. 容易い(たやすい): easy, simple, light
+54. 風俗(ふうぞく): 1. manners, customs, 2. sex service, sex industry
+55. 滞納(たいのう): non-payment, default
+56. 囀る(さえずる): to sing, to chirp, to twitter
+57. カメラマン: cameraman
+58. 様(さま): Mr. or Mrs., manner, kind, appearance
+59. お菜(おかず): side dish, accompaniment for rice dishes
+60. 堪える(こらえる): to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, t
+61. ずばり: decisively, decidedly, once and for all, unreservedly, frankly
+62. 信任(しんにん): trust, confidence, credence
+63. オートマチック: automatic
+64. 沿岸(えんがん): coast, shore
+65. 難(なん): difficulty, hardships, defect
+66. 改修(かいしゅう): repair, improvement
+67. 一寸(ちょっと): (ateji) (adv int) (uk) just a minute, a short time, a while, just a little, somewhat, easily, readily, rath
+68. 当て(あて): object, aim, end, hopes, expectations
+69. 非難(ひなん): blame, attack, criticism
+70. 火傷(かしょう): burn, scald
+71. 其の儘(そのまま): without change, as it is (i.e. now)
+72. 乃至(ないし): from...to, between...and, or
+73. 手本(てほん): model, pattern
+74. きっかり: exactly, precisely
+75. 独自(どくじ): original, peculiar, characteristic
+76. 欲深い(よくふかい): greedy
+77. 共(きょう): both, neither (neg), all, and, as well as, including, with, together with, plural ending
+78. 進出(しんしゅつ): advance, step forward
+79. 国定(こくてい): state-sponsored, national
+80. 投げ出す(なげだす): to throw down, to abandon, to sacrifice, to throw out
+81. 受け入れる(うけいれる): to accept, to receive
+82. 長(おさ): chief, head
+83. 岩石(がんせき): rock
+
+
+Practice time:11:39:52 PM	Resource: ./jp2csv/jp_n4
+-------------unknown words list follow-----------------
+
+
+Practice time:11:40:25 PM	Resource: ./jp2csv/jp_n4
+-------------unknown words list follow-----------------
+1. 産業(さんぎょう): industry
+2. 歴史(れきし): history
+3. 寄る(よる): to visit
+4. 店員(てんいん): shop assistant
+5. 続ける(つづける): to continue
+6. 大分(だいぶ): greatly
+7. 間(あいだ): a space
+8. 電報(でんぽう): telegram
+9. 安全(あんぜん): safety
+10. 最初(さいしょ): beginning,first
+11. お礼(おれい): expression of gratitude
+12. いっぱい: full
+13. 中学校(ちゅうがっこう): junior high school,middle school
+14. 両方(りょうほう): both sides
+15. 美しい(うつくしい): beautiful
+16. 虫(むし): insect
+17. 簡単(かんたん): simple
+18. エスカレーター: escalator
+19. 調べる(しらべる): to investigate
+20. 親(おや): parents
+21. 似る(にる): to be similar
+22. 漬ける(つける): to soak,to pickle
+23. 受ける(うける): to take a lesson or test
+24. 捨てる(すてる): to throw away
+25. 差し上げる(さしあげる): (polite) to give
+26. 工場(こうじょう/こうば): factory,plant,mill,workshop
+27. チェックする: to check
+28. 開く(ひらく): to open an event
+29. 見物(けんぶつ): sightseeing
+30. 変える(かえる): to change
+31. 済む(すむ): to finish
+32. 残念(ざんねん): disappointment
+33. ちゃん: suffix for familiar person
+34. 天気予報(てんきよほう): weather forecast
+35. 治る(なおる): to be cured,to heal
+36. 人口(じんこう): population
+37. 慣れる(なれる): to grow accustomed to
+38. チェックする: to check
+39. 味噌(みそ): miso, soybean paste
+40. はっきり: clearly
+41. 払う(はらう): to pay
+42. あげる: to give
+43. 糸(いと): thread
+44. 珍しい(めずらしい): rare
+45. 客(きゃく): guest,customer
+46. これから: after this
+47. 品物(しなもの): goods
+48. 近所(きんじょ): neighbourhood
+49. 悲しい(かなしい): sad
+50. 利用(りよう): utilization
+51. ぶどう: grapes
+52. 西洋(せいよう): western countries
+53. 人口(じんこう): population
+54. おいでになる: (respectful) to be
+55. 怖い(こわい): frightening
+56. おかげ: owing to, thanks to
+57. 運転手(うんてんしゅ): driver
+58. 下りる(おりる): to get off, to descend
+59. 決る(きまる): to be decided
+60. 仕方(しかた): method
+61. 医学(いがく): medical science
+62. 注射(ちゅうしゃ): injection
+63. 探す(さがす): to look for
+64. 経済(けいざい): finance,economy
+65. うん: (informal) yes
+66. 増える(ふえる): to increase
+67. 留守(るす): absence
+68. 慣れる(なれる): to grow accustomed to
+69. 警察(けいさつ): police
+70. 以下(いか): less than
+71. 盛ん(さかん): popularity,prosperous
+72. 生活(せいかつする): to live
+73. 形(かたち): shape
+74. アフリカ: Africa
+75. 間に合う(まにあう): to be in time for
+76. 文法(ぶんぽう): grammar
+77. しばらく: little while
+78. 着物(きもの): kimono
+79. あかちゃん: baby
+80. 急(きゅう): urgent, steep
+
+
+Practice time:11:40:40 PM	Resource: ./jp2csv/jp_n4
+-------------unknown words list follow-----------------
+1. 水道(すいどう): water supply
+2. 凄い(すごい): terrific
+3. 退院(たいいんする): to leave hospital
+4. コンサート: concert
+5. 字(じ): character
+6. 日記(にっき): journal
+7. 手袋(てぶくろ): glove
+8. 景色(けしき): scene,landscape
+9. 石(いし): stone
+10. 暖房(だんぼう): heating
+11. 昼休み(ひるやすみ): noon break
+12. 壁(かべ): wall
+13. 下る(さがる): to get down,to descend
+14. 血(ち): blood
+15. 届ける(とどける): to send, to deliver, to report
+16. 生きる(いきる): to live
+17. 無理(むり): impossible
+18. 決める(きめる): to decide
+19. 安全(あんぜん): safety
+20. 沸く(わく): to boil, to grow hot,to get excited
+21. 例えば(たとえば): for example
+22. 慣れる(なれる): to grow accustomed to
+23. 見物(けんぶつ): sightseeing
+24. 上る(あがる): to rise
+25. 止める(とめる): to stop something
+
+
+Practice time:11:55:47 PM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. 交える(まじえる): to mix, to converse with, to cross (swords)
+2. 脱する(だっする): to escape from, to get out
+3. 加工(かこう): manufacturing, processing, treatment
+4. 一見(いちげん): unfamiliar, never before met
+
+
+Practice time:11:56:30 PM	Resource: ./jp2csv/jp_n3
+-------------unknown words list follow-----------------
+1. 運動(うんどうする): motion, exercise, to exercise
+2. 合計(ごうけい): sum total,total amount
+3. 発展(はってん): development,growth

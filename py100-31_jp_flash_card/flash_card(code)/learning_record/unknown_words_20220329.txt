@@ -1,0 +1,53 @@
+Practice time:10:50:40 AM	Resource: ./jp2csv/jp_n1
+-------------unknown words list follow-----------------
+1. アプローチ: approach (in golf)
+
+2. 日焼け(ひやけ): sunburn
+
+3. ポーズ: pause
+
+4. コントロール: control
+
+5. 大ざっぱ(おおざっぱ): rough (as in not precise)
+ broad
+ sketchy
+
+6. 世辞(せじ): flattery
+ compliment
+
+
+
+Practice time:10:57:59 AM	Resource: ./jp2csv/jp_n5
+-------------unknown words list follow-----------------
+
+
+Practice time:11:02:16 AM	Resource: ./jp2csv/jp_n4
+-------------unknown words list follow-----------------
+1. 字(じ): 
+	character
+	
+2. 変わる(かわる): 
+	to change
+	
+3. 落ちる(おちる): 
+	to fall or drop
+	
+4. 火事(かじ): 
+	fire
+	
+5. 止める(とめる): 
+	to stop something
+	
+
+
+Practice time:11:22:40 AM	Resource: ./jp2csv/jp_n5_to_learn.csv
+-------------unknown words list follow-----------------
+1. 向こう(むこう): 
+	over there
+	
+2. 歯(は): 
+	tooth
+	
+3. 涼しい(すずしい): 
+	refreshing
+	

@@ -1,0 +1,573 @@
+{{Node-count limit exceeded|ja|撫でる}}, {{Node-count limit exceeded|ja|なでる}} -to brush gently,to stroke
+{{Node-count limit exceeded|ja|斜め}}, {{Node-count limit exceeded|ja|ななめ}} -obliqueness
+{{Node-count limit exceeded|ja|なにしろ}} -at any rate,anyhow,anyway,in any case
+{{Node-count limit exceeded|ja|何々}}, {{Node-count limit exceeded|ja|なになに}} -such and such,What?
+{{Node-count limit exceeded|ja|何分}}, {{Node-count limit exceeded|ja|なにぶん}} -what minute?,how many minutes?
+{{Node-count limit exceeded|ja|生意気}}, {{Node-count limit exceeded|ja|なまいき}} -impertinent,saucy,cheeky,conceit,audacious,brazen
+{{Node-count limit exceeded|ja|並木}}, {{Node-count limit exceeded|ja|なみき}} -roadside tree,row of trees
+{{Node-count limit exceeded|ja|倣う}}, {{Node-count limit exceeded|ja|ならう}} -to imitate,to follow,to emulate
+{{Node-count limit exceeded|ja|鳴らす}}, {{Node-count limit exceeded|ja|ならす}} -to ring,to sound,to chime,to beat,to snort (nose)
+{{Node-count limit exceeded|ja|生る}}, {{Node-count limit exceeded|ja|なる}} -to bear fruit
+{{Node-count limit exceeded|ja|馴れる}}, {{Node-count limit exceeded|ja|なれる}} -to become domesticated,to become tame
+{{Node-count limit exceeded|ja|南極}}, {{Node-count limit exceeded|ja|なんきょく}} -south pole,Antarctic
+{{Node-count limit exceeded|ja|なんとなく}} -somehow or other,for some reason or another
+{{Node-count limit exceeded|ja|なんとも}} -nothing (with neg. verb),quite,not a bit
+{{Node-count limit exceeded|ja|ナンバー}} -number
+{{Node-count limit exceeded|ja|南米}}, {{Node-count limit exceeded|ja|なんべい}} -South America
+{{Node-count limit exceeded|ja|南北}}, {{Node-count limit exceeded|ja|なんぼく}} -south and north
+{{Node-count limit exceeded|ja|煮える}}, {{Node-count limit exceeded|ja|にえる}} -to boil,to cook,to be cooked
+{{Node-count limit exceeded|ja|匂う}}, {{Node-count limit exceeded|ja|におう}} -to be fragrant,to smell,to stink
+{{Node-count limit exceeded|ja|逃がす}}, {{Node-count limit exceeded|ja|にがす}} -to let loose,to set free,to let escape
+{{Node-count limit exceeded|ja|憎い}}, {{Node-count limit exceeded|ja|にくい}} -hateful,abominable,poor-looking,detestable
+{{Node-count limit exceeded|ja|憎む}}, {{Node-count limit exceeded|ja|にくむ}} -to hate,to detest
+{{Node-count limit exceeded|ja|憎らしい}}, {{Node-count limit exceeded|ja|にくらしい}} -odious,hateful
+{{Node-count limit exceeded|ja|にこにこ}} -smile
+{{Node-count limit exceeded|ja|濁る}}, {{Node-count limit exceeded|ja|にごる}} -to become muddy,to get impure
+{{Node-count limit exceeded|ja|虹}}, {{Node-count limit exceeded|ja|にじ}} -rainbow
+{{Node-count limit exceeded|ja|日時}}, {{Node-count limit exceeded|ja|にちじ}} -date and time
+{{Node-count limit exceeded|ja|日用品}}, {{Node-count limit exceeded|ja|にちようひん}} -daily necessities
+{{Node-count limit exceeded|ja|日課}}, {{Node-count limit exceeded|ja|にっか}} -daily lesson,daily work,daily routine
+{{Node-count limit exceeded|ja|日程}}, {{Node-count limit exceeded|ja|にってい}} -agenda
+{{Node-count limit exceeded|ja|鈍い}}, {{Node-count limit exceeded|ja|にぶい}} -dull (e.g. a knife),thickheaded,slow (opposite of fast),stupid
+{{Node-count limit exceeded|ja|入社}}, {{Node-count limit exceeded|ja|にゅうしゃ}} -entry to a company
+{{Node-count limit exceeded|ja|女房}}, {{Node-count limit exceeded|ja|にょうぼう}} -wife
+{{Node-count limit exceeded|ja|睨む}}, {{Node-count limit exceeded|ja|にらむ}} -to glare at,to scowl at,to keep an eye on
+{{Node-count limit exceeded|ja|煮る}}, {{Node-count limit exceeded|ja|にる}} -to boil,to cook
+{{Node-count limit exceeded|ja|俄}}, {{Node-count limit exceeded|ja|にわか}} -sudden,abrupt,unexpected,improvised,offhand
+{{Node-count limit exceeded|ja|縫う}}, {{Node-count limit exceeded|ja|ぬう}} -to sew
+{{Node-count limit exceeded|ja|濡らす}}, {{Node-count limit exceeded|ja|ぬらす}} -to wet,to soak,to dip
+{{Node-count limit exceeded|ja|ねじ}} -(a) screw
+{{Node-count limit exceeded|ja|捩る}}, {{Node-count limit exceeded|ja|ねじる}} -to twist
+{{Node-count limit exceeded|ja|ネックレス}} -necklace
+{{Node-count limit exceeded|ja|熱する}}, {{Node-count limit exceeded|ja|ねっする}} -to heat
+{{Node-count limit exceeded|ja|寝間着}}, {{Node-count limit exceeded|ja|ねまき}} -sleep-wear,nightclothes,pyjamas,nightgown,nightdress
+{{Node-count limit exceeded|ja|寝巻}}, {{Node-count limit exceeded|ja|ねまき}} -sleep-wear,nightclothes,pyjamas,nightgown,nightdress
+{{Node-count limit exceeded|ja|狙い}}, {{Node-count limit exceeded|ja|ねらい}} -aim
+{{Node-count limit exceeded|ja|狙う}}, {{Node-count limit exceeded|ja|ねらう}} -to aim at
+{{Node-count limit exceeded|ja|年度}}, {{Node-count limit exceeded|ja|ねんど}} -year,fiscal year,school year,term
+{{Node-count limit exceeded|ja|農産物}}, {{Node-count limit exceeded|ja|のうさんぶつ}} -agricultural produce
+{{Node-count limit exceeded|ja|農村}}, {{Node-count limit exceeded|ja|のうそん}} -agricultural community,farm village,rural
+{{Node-count limit exceeded|ja|濃度}}, {{Node-count limit exceeded|ja|のうど}} -concentration,brightness
+{{Node-count limit exceeded|ja|農薬}}, {{Node-count limit exceeded|ja|のうやく}} -agricultural chemicals
+{{Node-count limit exceeded|ja|能率}}, {{Node-count limit exceeded|ja|のうりつ}} -efficiency
+{{Node-count limit exceeded|ja|のこぎり}} -saw
+{{Node-count limit exceeded|ja|残らず}}, {{Node-count limit exceeded|ja|のこらず}} -all,entirely,completely,without exception
+{{Node-count limit exceeded|ja|載せる}}, {{Node-count limit exceeded|ja|のせる}} -to place on (something),to take on board,to give a ride
+{{Node-count limit exceeded|ja|覗く}}, {{Node-count limit exceeded|ja|のぞく}} -to peep in,to look in,to peek in,to stick out
+{{Node-count limit exceeded|ja|延ばす}}, {{Node-count limit exceeded|ja|のばす}} -to lengthen,to stretch,to reach out,to grow (beard)
+{{Node-count limit exceeded|ja|延びる}}, {{Node-count limit exceeded|ja|のびる}} -to be prolonged
+{{Node-count limit exceeded|ja|上り}}, {{Node-count limit exceeded|ja|のぼり}} -up-train (going to Tokyo),ascent
+{{Node-count limit exceeded|ja|上る}}, {{Node-count limit exceeded|ja|のぼる}} -to ascend,to go up,to climb
+{{Node-count limit exceeded|ja|糊}}, {{Node-count limit exceeded|ja|のり}} -paste,starch
+{{Node-count limit exceeded|ja|乗換}}, {{Node-count limit exceeded|ja|のりかえ}} -(n) transfer (trains, buses, etc.)
+{{Node-count limit exceeded|ja|載る}}, {{Node-count limit exceeded|ja|のる}} -to appear (in print),to be recorded
+{{Node-count limit exceeded|ja|鈍い}}, {{Node-count limit exceeded|ja|のろい}} -dull (e.g. a knife),thickheaded,slow (opposite of fast),stupid
+{{Node-count limit exceeded|ja|のろのろ}} -slowly,sluggishly
+{{Node-count limit exceeded|ja|呑気}}, {{Node-count limit exceeded|ja|のんき}} -carefree,optimistic,careless,reckless,heedless
+{{Node-count limit exceeded|ja|灰色}}, {{Node-count limit exceeded|ja|はいいろ}} -grey,gray,ashen
+{{Node-count limit exceeded|ja|俳句}}, {{Node-count limit exceeded|ja|はいく}} -haiku poetry
+{{Node-count limit exceeded|ja|拝見}}, {{Node-count limit exceeded|ja|はいけん}} -(hum) (pol) seeing,look at
+{{Node-count limit exceeded|ja|売店}}, {{Node-count limit exceeded|ja|ばいてん}} -shop,stand
+{{Node-count limit exceeded|ja|バイバイ}} -bye-bye
+{{Node-count limit exceeded|ja|売買}}, {{Node-count limit exceeded|ja|ばいばい}} -trade,buying and selling
+{{Node-count limit exceeded|ja|這う}}, {{Node-count limit exceeded|ja|はう}} -to creep,to crawl
+{{Node-count limit exceeded|ja|生える}}, {{Node-count limit exceeded|ja|はえる}} -(1) to grow,to spring up,(2) to cut (teeth)
+{{Node-count limit exceeded|ja|剥す}}, {{Node-count limit exceeded|ja|はがす}} -(v5s) to tear off,to peel off,to rip off
+{{Node-count limit exceeded|ja|ばからしい}} -absurd
+{{Node-count limit exceeded|ja|秤}}, {{Node-count limit exceeded|ja|はかり}} -scales,weighing machine
+{{Node-count limit exceeded|ja|量る}}, {{Node-count limit exceeded|ja|はかる}} -to measure,to weigh,to survey
+{{Node-count limit exceeded|ja|測る}}, {{Node-count limit exceeded|ja|はかる}} -to measure,to weigh,to survey
+{{Node-count limit exceeded|ja|吐き気}}, {{Node-count limit exceeded|ja|はきけ}} -nausea,sickness in the stomach
+{{Node-count limit exceeded|ja|はきはき}} -lucidly
+{{Node-count limit exceeded|ja|掃く}}, {{Node-count limit exceeded|ja|はく}} -to sweep,to brush,to gather up
+{{Node-count limit exceeded|ja|歯車}}, {{Node-count limit exceeded|ja|はぐるま}} -gear,cog-wheel
+{{Node-count limit exceeded|ja|バケツ}} -bucket,pail
+{{Node-count limit exceeded|ja|挟まる}}, {{Node-count limit exceeded|ja|はさまる}} -to get between,to be caught in
+{{Node-count limit exceeded|ja|挟む}}, {{Node-count limit exceeded|ja|はさむ}} -to interpose,to hold between,to insert
+{{Node-count limit exceeded|ja|箸}}, {{Node-count limit exceeded|ja|はし}} -chopsticks
+{{Node-count limit exceeded|ja|梯子}}, {{Node-count limit exceeded|ja|はしご}} -ladder,stairs
+{{Node-count limit exceeded|ja|始めに}}, {{Node-count limit exceeded|ja|はじめに}} -to begin with, first of all
+{{Node-count limit exceeded|ja|初めに}}, {{Node-count limit exceeded|ja|はじめに}} -to begin with, first of all
+{{Node-count limit exceeded|ja|はじめまして}} -How do you do?,I am glad to meet you
+{{Node-count limit exceeded|ja|斜}}, {{Node-count limit exceeded|ja|はす}} -diagonal
+{{Node-count limit exceeded|ja|外れる}}, {{Node-count limit exceeded|ja|はずれる}} -to be disconnected,to get out of place,to be off,to be out (e.g. of gear)
+{{Node-count limit exceeded|ja|パターン}} -pattern
+{{Node-count limit exceeded|ja|肌着}}, {{Node-count limit exceeded|ja|はだぎ}} -underwear
+{{Node-count limit exceeded|ja|果して}}, {{Node-count limit exceeded|ja|はたして}} -as was expected,really
+{{Node-count limit exceeded|ja|鉢}}, {{Node-count limit exceeded|ja|はち}} -a bowl,a pot
+{{Node-count limit exceeded|ja|×}}, {{Node-count limit exceeded|ja|ばつ}} -
+{{Node-count limit exceeded|ja|発揮}}, {{Node-count limit exceeded|ja|はっき}} -exhibition,demonstration,utilization,display
+{{Node-count limit exceeded|ja|バック}} -back
+{{Node-count limit exceeded|ja|発射}}, {{Node-count limit exceeded|ja|はっしゃ}} -firing,shooting,discharge,catapult
+{{Node-count limit exceeded|ja|発想}}, {{Node-count limit exceeded|ja|はっそう}} -expression (music),conceptualization
+{{Node-count limit exceeded|ja|発電}}, {{Node-count limit exceeded|ja|はつでん}} -generation (e.g. power)
+{{Node-count limit exceeded|ja|発売}}, {{Node-count limit exceeded|ja|はつばい}} -sale
+{{Node-count limit exceeded|ja|派手}}, {{Node-count limit exceeded|ja|はで}} -showy,loud,gay,flashy,gaudy
+{{Node-count limit exceeded|ja|話合い}}, {{Node-count limit exceeded|ja|はなしあい}} -discussion,conference
+{{Node-count limit exceeded|ja|話し掛ける}}, {{Node-count limit exceeded|ja|はなしかける}} -to accost a person,to talk (to someone)
+{{Node-count limit exceeded|ja|話中}}, {{Node-count limit exceeded|ja|はなしちゅう}} -while talking,the line is busy
+{{Node-count limit exceeded|ja|甚だしい}}, {{Node-count limit exceeded|ja|はなはだしい}} -extreme,excessive,terrible
+{{Node-count limit exceeded|ja|花火}}, {{Node-count limit exceeded|ja|はなび}} -fireworks
+{{Node-count limit exceeded|ja|花嫁}}, {{Node-count limit exceeded|ja|はなよめ}} -bride
+{{Node-count limit exceeded|ja|放れる}}, {{Node-count limit exceeded|ja|はなれる}} -to leave,to get free,to cut oneself off
+{{Node-count limit exceeded|ja|羽根}}, {{Node-count limit exceeded|ja|はね}} -shuttlecock
+{{Node-count limit exceeded|ja|ばね}} -spring (e.g. coil, leaf)
+{{Node-count limit exceeded|ja|跳ねる}}, {{Node-count limit exceeded|ja|はねる}} -to jump,to leap
+{{Node-count limit exceeded|ja|破片}}, {{Node-count limit exceeded|ja|はへん}} -fragment,splinter,broken piece
+{{Node-count limit exceeded|ja|歯磨き}}, {{Node-count limit exceeded|ja|はみがき}} -dentifrice,toothpaste
+{{Node-count limit exceeded|ja|はめる}} -(col) to get in,to insert,to put on,to make love
+{{Node-count limit exceeded|ja|早口}}, {{Node-count limit exceeded|ja|はやくち}} -fast-talking
+{{Node-count limit exceeded|ja|流行る}}, {{Node-count limit exceeded|ja|はやる}} -to flourish,to thrive,to be popular,to come into fashion
+{{Node-count limit exceeded|ja|払い込む}}, {{Node-count limit exceeded|ja|はらいこむ}} -to deposit,to pay in
+{{Node-count limit exceeded|ja|払い戻す}}, {{Node-count limit exceeded|ja|はらいもどす}} -to repay,to pay back
+{{Node-count limit exceeded|ja|バランス}} -balance
+{{Node-count limit exceeded|ja|針金}}, {{Node-count limit exceeded|ja|はりがね}} -wire
+{{Node-count limit exceeded|ja|張り切る}}, {{Node-count limit exceeded|ja|はりきる}} -to be in high spirits,to be full of vigor
+{{Node-count limit exceeded|ja|反映}}, {{Node-count limit exceeded|ja|はんえい}} -reflection,influence
+{{Node-count limit exceeded|ja|半径}}, {{Node-count limit exceeded|ja|はんけい}} -radius
+{{Node-count limit exceeded|ja|判子}}, {{Node-count limit exceeded|ja|はんこ}} -seal (used for signature)
+{{Node-count limit exceeded|ja|万歳}}, {{Node-count limit exceeded|ja|ばんざい}} -hurrah, cheers
+{{Node-count limit exceeded|ja|判事}}, {{Node-count limit exceeded|ja|はんじ}} -judge,judiciary
+{{Node-count limit exceeded|ja|反省}}, {{Node-count limit exceeded|ja|はんせい}} -reflection,reconsideration,introspection,meditation,contemplation
+{{Node-count limit exceeded|ja|番地}}, {{Node-count limit exceeded|ja|ばんち}} -house number,address
+{{Node-count limit exceeded|ja|パンツ}} -underpants
+{{Node-count limit exceeded|ja|バンド}} -band
+{{Node-count limit exceeded|ja|半島}}, {{Node-count limit exceeded|ja|はんとう}} -peninsula
+{{Node-count limit exceeded|ja|ハンドル}} -handle,steering wheel
+{{Node-count limit exceeded|ja|日当たり}}, {{Node-count limit exceeded|ja|ひあたり}} -exposure to the sun,sunny place
+{{Node-count limit exceeded|ja|日帰り}}, {{Node-count limit exceeded|ja|ひがえり}} -day trip
+{{Node-count limit exceeded|ja|比較的}}, {{Node-count limit exceeded|ja|ひかくてき}} -comparatively,relatively
+{{Node-count limit exceeded|ja|日陰}}, {{Node-count limit exceeded|ja|ひかげ}} -shadow
+{{Node-count limit exceeded|ja|ぴかぴか}} -glitter,sparkle
+{{Node-count limit exceeded|ja|引受る}}, {{Node-count limit exceeded|ja|ひきうける}} -to undertake,to take up,to take over
+{{Node-count limit exceeded|ja|引返す}}, {{Node-count limit exceeded|ja|ひきかえす}} -to repeat,to send back,to bring back
+{{Node-count limit exceeded|ja|引算}}, {{Node-count limit exceeded|ja|ひきざん}} -subtraction
+{{Node-count limit exceeded|ja|引出す}}, {{Node-count limit exceeded|ja|ひきだす}} -to pull out,to take out,to draw out,to withdraw
+{{Node-count limit exceeded|ja|引き止める}}, {{Node-count limit exceeded|ja|ひきとめる}} -to detain,to check,to restrain
+{{Node-count limit exceeded|ja|卑怯}}, {{Node-count limit exceeded|ja|ひきょう}} -cowardice,meanness,unfairness
+{{Node-count limit exceeded|ja|引分け}}, {{Node-count limit exceeded|ja|ひきわけ}} -a draw (in competition),tie game
+{{Node-count limit exceeded|ja|髭}}, {{Node-count limit exceeded|ja|ひげ}} -moustache,beard,whiskers
+{{Node-count limit exceeded|ja|陽射}}, {{Node-count limit exceeded|ja|ひざし}} -sunlight,rays of the sun
+{{Node-count limit exceeded|ja|肘}}, {{Node-count limit exceeded|ja|ひじ}} -elbow
+{{Node-count limit exceeded|ja|ピストル}} -pistol
+{{Node-count limit exceeded|ja|ビタミン}} -vitamin
+{{Node-count limit exceeded|ja|ぴたり}} -tightly, exactly
+{{Node-count limit exceeded|ja|引っ掛かる}}, {{Node-count limit exceeded|ja|ひっかかる}} -to be caught in,to be stuck in,to be cheated
+{{Node-count limit exceeded|ja|筆記}}, {{Node-count limit exceeded|ja|ひっき}} -(taking) notes,copying
+{{Node-count limit exceeded|ja|引っ繰り返す}}, {{Node-count limit exceeded|ja|ひっくりかえす}} -to turn over,to overturn,to knock over,to upset,to turn inside out
+{{Node-count limit exceeded|ja|引っ繰り返る}}, {{Node-count limit exceeded|ja|ひっくりかえる}} -to be overturned,to be upset,to topple over,to be reversed
+{{Node-count limit exceeded|ja|引越し}}, {{Node-count limit exceeded|ja|ひっこし}} -moving (dwelling etc.),changing residence
+{{Node-count limit exceeded|ja|引っ込む}}, {{Node-count limit exceeded|ja|ひっこむ}} -to draw back,to sink,to cave in
+{{Node-count limit exceeded|ja|筆者}}, {{Node-count limit exceeded|ja|ひっしゃ}} -writer,author
+{{Node-count limit exceeded|ja|必需品}}, {{Node-count limit exceeded|ja|ひつじゅひん}} -necessities,necessary article,requisite,essential
+{{Node-count limit exceeded|ja|人差指}}, {{Node-count limit exceeded|ja|ひとさしゆび}} -index finger
+{{Node-count limit exceeded|ja|一通り}}, {{Node-count limit exceeded|ja|ひととおり}} -ordinary,usual,in general,briefly
+{{Node-count limit exceeded|ja|人通り}}, {{Node-count limit exceeded|ja|ひとどおり}} -pedestrian traffic
+{{Node-count limit exceeded|ja|ひとまず}} -for the present,once,in outline
+{{Node-count limit exceeded|ja|瞳}}, {{Node-count limit exceeded|ja|ひとみ}} -pupil (of eye)
+{{Node-count limit exceeded|ja|一休み}}, {{Node-count limit exceeded|ja|ひとやすみ}} -a rest
+{{Node-count limit exceeded|ja|独り言}}, {{Node-count limit exceeded|ja|ひとりごと}} -a soliloquy,a monologue,speaking to oneself
+{{Node-count limit exceeded|ja|ひとりでに}} -by itself,automatically,naturally
+{{Node-count limit exceeded|ja|ビニール}} -vinyl
+{{Node-count limit exceeded|ja|皮肉}}, {{Node-count limit exceeded|ja|ひにく}} -cynicism,sarcasm
+{{Node-count limit exceeded|ja|日日}}, {{Node-count limit exceeded|ja|ひにち}} -every day,daily,day after day
+{{Node-count limit exceeded|ja|捻る}}, {{Node-count limit exceeded|ja|ひねる}} -to turn (a switch) on or off,to twist,to puzzle over
+{{Node-count limit exceeded|ja|日の入り}}, {{Node-count limit exceeded|ja|ひのいり}} -sunset
+{{Node-count limit exceeded|ja|日の出}}, {{Node-count limit exceeded|ja|ひので}} -sunrise
+{{Node-count limit exceeded|ja|響き}}, {{Node-count limit exceeded|ja|ひびき}} -echo,sound,reverberation,noise
+{{Node-count limit exceeded|ja|響く}}, {{Node-count limit exceeded|ja|ひびく}} -to resound
+{{Node-count limit exceeded|ja|皮膚}}, {{Node-count limit exceeded|ja|ひふ}} -skin
+{{Node-count limit exceeded|ja|冷やす}}, {{Node-count limit exceeded|ja|ひやす}} -to cool,to refrigerate
+{{Node-count limit exceeded|ja|ひゃっかじてん}} -encyclopedia
+{{Node-count limit exceeded|ja|美容}}, {{Node-count limit exceeded|ja|びよう}} -beauty of figure or form
+{{Node-count limit exceeded|ja|表紙}}, {{Node-count limit exceeded|ja|ひょうし}} -front cover,binding
+{{Node-count limit exceeded|ja|標識}}, {{Node-count limit exceeded|ja|ひょうしき}} -sign,mark
+{{Node-count limit exceeded|ja|標準}}, {{Node-count limit exceeded|ja|ひょうじゅん}} -standard,level
+{{Node-count limit exceeded|ja|標本}}, {{Node-count limit exceeded|ja|ひょうほん}} -example,specimen
+{{Node-count limit exceeded|ja|評論}}, {{Node-count limit exceeded|ja|ひょうろん}} -criticism,critique
+{{Node-count limit exceeded|ja|平仮名}}, {{Node-count limit exceeded|ja|ひらがな}} -hiragana,47 syllables,the cursive syllabary
+{{Node-count limit exceeded|ja|ビルディング}} -building
+{{Node-count limit exceeded|ja|昼寝}}, {{Node-count limit exceeded|ja|ひるね}} -nap (at home),siesta
+{{Node-count limit exceeded|ja|広げる}}, {{Node-count limit exceeded|ja|ひろげる}} -to spread,to extend,to expand,to enlarge
+{{Node-count limit exceeded|ja|広さ}}, {{Node-count limit exceeded|ja|ひろさ}} -extent
+{{Node-count limit exceeded|ja|広場}}, {{Node-count limit exceeded|ja|ひろば}} -plaza
+{{Node-count limit exceeded|ja|広々}}, {{Node-count limit exceeded|ja|ひろびろ}} -extensive,spacious
+{{Node-count limit exceeded|ja|広める}}, {{Node-count limit exceeded|ja|ひろめる}} -to broaden,to propagate
+{{Node-count limit exceeded|ja|ピンク}} -pink
+{{Node-count limit exceeded|ja|便箋}}, {{Node-count limit exceeded|ja|びんせん}} -writing paper,stationery
+{{Node-count limit exceeded|ja|瓶詰}}, {{Node-count limit exceeded|ja|びんづめ}} -bottling,bottled
+{{Node-count limit exceeded|ja|ファスナー}} -fastener,zipper
+{{Node-count limit exceeded|ja|風船}}, {{Node-count limit exceeded|ja|ふうせん}} -balloon
+{{Node-count limit exceeded|ja|不運}}, {{Node-count limit exceeded|ja|ふうん}} -unlucky,misfortune,bad luck,fate
+{{Node-count limit exceeded|ja|殖える}}, {{Node-count limit exceeded|ja|ふえる}} -to increase,to multiply
+{{Node-count limit exceeded|ja|深まる}}, {{Node-count limit exceeded|ja|ふかまる}} -to deepen,to heighten,to intensify
+{{Node-count limit exceeded|ja|不規則}}, {{Node-count limit exceeded|ja|ふきそく}} -irregularity,unsteadiness,disorderly
+{{Node-count limit exceeded|ja|普及}}, {{Node-count limit exceeded|ja|ふきゅう}} -diffusion,spread
+{{Node-count limit exceeded|ja|付近}}, {{Node-count limit exceeded|ja|ふきん}} -neighbourhood,vicinity,environs
+{{Node-count limit exceeded|ja|拭く}}, {{Node-count limit exceeded|ja|ふく}} -to wipe,to dry
+{{Node-count limit exceeded|ja|副詞}}, {{Node-count limit exceeded|ja|ふくし}} -adverb
+{{Node-count limit exceeded|ja|複写}}, {{Node-count limit exceeded|ja|ふくしゃ}} -copy,duplicate
+{{Node-count limit exceeded|ja|複数}}, {{Node-count limit exceeded|ja|ふくすう}} -plural,multiple
+{{Node-count limit exceeded|ja|含める}}, {{Node-count limit exceeded|ja|ふくめる}} -to include,to instruct,to make one understand
+{{Node-count limit exceeded|ja|膨らます}}, {{Node-count limit exceeded|ja|ふくらます}} -to swell,to expand,to inflate,to bulge
+{{Node-count limit exceeded|ja|膨らむ}}, {{Node-count limit exceeded|ja|ふくらむ}} -to expand,to swell (out),to get big,to become inflated
+{{Node-count limit exceeded|ja|不潔}}, {{Node-count limit exceeded|ja|ふけつ}} -unclean,dirty,filthy,impure
+{{Node-count limit exceeded|ja|更ける}}, {{Node-count limit exceeded|ja|ふける}} -to get late,to advance,to wear on
+{{Node-count limit exceeded|ja|符号}}, {{Node-count limit exceeded|ja|ふごう}} -sign,mark,symbol
+{{Node-count limit exceeded|ja|夫妻}}, {{Node-count limit exceeded|ja|ふさい}} -man and wife,married couple
+{{Node-count limit exceeded|ja|塞がる}}, {{Node-count limit exceeded|ja|ふさがる}} -to be plugged up,to be shut up
+{{Node-count limit exceeded|ja|塞ぐ}}, {{Node-count limit exceeded|ja|ふさぐ}} -to stop up,to close up,to block (up)
+{{Node-count limit exceeded|ja|ふざける}} -to romp,to gambol,to frolic,to joke
+{{Node-count limit exceeded|ja|無沙汰}}, {{Node-count limit exceeded|ja|ぶさた}} -neglecting to stay in contact
+{{Node-count limit exceeded|ja|武士}}, {{Node-count limit exceeded|ja|ぶし}} -warrior,samurai
+{{Node-count limit exceeded|ja|部首}}, {{Node-count limit exceeded|ja|ぶしゅ}} -radical (of a kanji character)
+{{Node-count limit exceeded|ja|襖}}, {{Node-count limit exceeded|ja|ふすま}} -sliding screen
+{{Node-count limit exceeded|ja|附属}}, {{Node-count limit exceeded|ja|ふぞく}} -attached,belonging,affiliated
+{{Node-count limit exceeded|ja|蓋}}, {{Node-count limit exceeded|ja|ふた}} -cover,lid,cap
+{{Node-count limit exceeded|ja|不通}}, {{Node-count limit exceeded|ja|ふつう}} -suspension,interruption,stoppage,tie-up,cessation
+{{Node-count limit exceeded|ja|ぶつかる}} -to strike,to collide with
+{{Node-count limit exceeded|ja|ぶつける}} -to knock,to run into,to nail on,to strike hard,to hit and attack
+{{Node-count limit exceeded|ja|物騒}}, {{Node-count limit exceeded|ja|ぶっそう}} -dangerous,disturbed,insecure
+{{Node-count limit exceeded|ja|ぶつぶつ}} -grumbling,complaining in a small voice
+{{Node-count limit exceeded|ja|船便}}, {{Node-count limit exceeded|ja|ふなびん}} -surface mail (ship)
+{{Node-count limit exceeded|ja|部品}}, {{Node-count limit exceeded|ja|ぶひん}} -parts,accessories
+{{Node-count limit exceeded|ja|吹雪}}, {{Node-count limit exceeded|ja|ふぶき}} -snow storm
+{{Node-count limit exceeded|ja|父母}}, {{Node-count limit exceeded|ja|ふぼ}} -father and mother,parents
+{{Node-count limit exceeded|ja|踏切}}, {{Node-count limit exceeded|ja|ふみきり}} -railway crossing,level crossing,starting line,scratch,crossover
+{{Node-count limit exceeded|ja|麓}}, {{Node-count limit exceeded|ja|ふもと}} -the foot,the bottom,the base (of a mountain)
+{{Node-count limit exceeded|ja|増やす}}, {{Node-count limit exceeded|ja|ふやす}} -to increase,to add to,to augment
+{{Node-count limit exceeded|ja|殖やす}}, {{Node-count limit exceeded|ja|ふやす}} -to increase,to add to,to augment
+{{Node-count limit exceeded|ja|フライパン}} -fry pan,frying pan
+{{Node-count limit exceeded|ja|ブラウス}} -blouse
+{{Node-count limit exceeded|ja|ぶらさげる}} -to hang,to suspend,to dangle,to swing
+{{Node-count limit exceeded|ja|ブラシ}} -brushy,brush
+{{Node-count limit exceeded|ja|プラスチック}} -plastic
+{{Node-count limit exceeded|ja|プラットホーム}} -platform
+{{Node-count limit exceeded|ja|フリー}} -free
+{{Node-count limit exceeded|ja|振り仮名}}, {{Node-count limit exceeded|ja|ふりがな}} -,pronunciation key
+{{Node-count limit exceeded|ja|プリント}} -print,handout
+{{Node-count limit exceeded|ja|振舞う}}, {{Node-count limit exceeded|ja|ふるまう}} -to behave,to conduct oneself,to entertain (vt)
+{{Node-count limit exceeded|ja|ブローチ}} -brooch
+{{Node-count limit exceeded|ja|プログラム}} -program
+{{Node-count limit exceeded|ja|風呂敷}}, {{Node-count limit exceeded|ja|ふろしき}} -wrapping cloth,cloth wrapper
+{{Node-count limit exceeded|ja|ふわふわ}} -light,soft
+{{Node-count limit exceeded|ja|噴火}}, {{Node-count limit exceeded|ja|ふんか}} -eruption
+{{Node-count limit exceeded|ja|分解}}, {{Node-count limit exceeded|ja|ぶんかい}} -analysis,disassembly
+{{Node-count limit exceeded|ja|文芸}}, {{Node-count limit exceeded|ja|ぶんげい}} -literature,art and literature,belles-lettres
+{{Node-count limit exceeded|ja|文献}}, {{Node-count limit exceeded|ja|ぶんけん}} -literature,books (reference)
+{{Node-count limit exceeded|ja|噴水}}, {{Node-count limit exceeded|ja|ふんすい}} -water fountain
+{{Node-count limit exceeded|ja|分数}}, {{Node-count limit exceeded|ja|ぶんすう}} -fraction (in math)
+{{Node-count limit exceeded|ja|文体}}, {{Node-count limit exceeded|ja|ぶんたい}} -literary style
+{{Node-count limit exceeded|ja|分布}}, {{Node-count limit exceeded|ja|ぶんぷ}} -distribution
+{{Node-count limit exceeded|ja|文房具}}, {{Node-count limit exceeded|ja|ぶんぼうぐ}} -stationery
+{{Node-count limit exceeded|ja|文脈}}, {{Node-count limit exceeded|ja|ぶんみゃく}} -context
+{{Node-count limit exceeded|ja|分量}}, {{Node-count limit exceeded|ja|ぶんりょう}} -amount,quantity
+{{Node-count limit exceeded|ja|分類}}, {{Node-count limit exceeded|ja|ぶんるい}} -classification
+{{Node-count limit exceeded|ja|閉会}}, {{Node-count limit exceeded|ja|へいかい}} -closure
+{{Node-count limit exceeded|ja|平気}}, {{Node-count limit exceeded|ja|へいき}} -coolness,calmness,composure,unconcern
+{{Node-count limit exceeded|ja|並行}}, {{Node-count limit exceeded|ja|へいこう}} -(going) side by side,concurrent,abreast,at the same time
+{{Node-count limit exceeded|ja|平日}}, {{Node-count limit exceeded|ja|へいじつ}} -weekday,ordinary days
+{{Node-count limit exceeded|ja|兵隊}}, {{Node-count limit exceeded|ja|へいたい}} -soldier,sailor
+{{Node-count limit exceeded|ja|平凡}}, {{Node-count limit exceeded|ja|へいぼん}} -common,commonplace,ordinary,mediocre
+{{Node-count limit exceeded|ja|平野}}, {{Node-count limit exceeded|ja|へいや}} -plain,open field
+{{Node-count limit exceeded|ja|凹む}}, {{Node-count limit exceeded|ja|へこむ}} -to be dented,to be indented,to yield to,to give,to sink,to collapse,to cave in,to be snubbed
+{{Node-count limit exceeded|ja|へそ}} -navel,belly-button
+{{Node-count limit exceeded|ja|隔てる}}, {{Node-count limit exceeded|ja|へだてる}} -to be shut out
+{{Node-count limit exceeded|ja|別荘}}, {{Node-count limit exceeded|ja|べっそう}} -holiday house,villa
+{{Node-count limit exceeded|ja|別々}}, {{Node-count limit exceeded|ja|べつべつ}} -separately,individually
+{{Node-count limit exceeded|ja|ベテラン}} -veteran
+{{Node-count limit exceeded|ja|ヘリコプター}} -helicopter
+{{Node-count limit exceeded|ja|へる}} -to decrease (in size or number),to diminish,to abate
+{{Node-count limit exceeded|ja|ぺん}} -pen
+{{Node-count limit exceeded|ja|編集}}, {{Node-count limit exceeded|ja|へんしゅう}} -editing,compilation,editorial (e.g. committee)
+{{Node-count limit exceeded|ja|便所}}, {{Node-count limit exceeded|ja|べんじょ}} -toilet,lavatory,rest room,latrine,comfort station
+{{Node-count limit exceeded|ja|ペンチ}} -(abbr) pliers (lit: pinchers)
+{{Node-count limit exceeded|ja|望遠鏡}}, {{Node-count limit exceeded|ja|ぼうえんきょう}} -telescope
+{{Node-count limit exceeded|ja|方角}}, {{Node-count limit exceeded|ja|ほうがく}} -direction,way,compass point
+{{Node-count limit exceeded|ja|箒}}, {{Node-count limit exceeded|ja|ほうき}} -(n) broom
+{{Node-count limit exceeded|ja|方言}}, {{Node-count limit exceeded|ja|ほうげん}} -dialect
+{{Node-count limit exceeded|ja|坊さん}}, {{Node-count limit exceeded|ja|ぼうさん}} -Buddhist priest,monk
+{{Node-count limit exceeded|ja|防止}}, {{Node-count limit exceeded|ja|ぼうし}} -prevention,check
+{{Node-count limit exceeded|ja|方針}}, {{Node-count limit exceeded|ja|ほうしん}} -objective,plan,policy
+{{Node-count limit exceeded|ja|包装}}, {{Node-count limit exceeded|ja|ほうそう}} -packing,wrapping
+{{Node-count limit exceeded|ja|法則}}, {{Node-count limit exceeded|ja|ほうそく}} -law,rule
+{{Node-count limit exceeded|ja|包帯}}, {{Node-count limit exceeded|ja|ほうたい}} -bandage,dressing
+{{Node-count limit exceeded|ja|膨大}}, {{Node-count limit exceeded|ja|ぼうだい}} -huge,bulky,enormous,extensive,swelling,expansion
+{{Node-count limit exceeded|ja|庖丁}}, {{Node-count limit exceeded|ja|ほうちょう}} -kitchen knife,carving knife
+{{Node-count limit exceeded|ja|方程式}}, {{Node-count limit exceeded|ja|ほうていしき}} -equation
+{{Node-count limit exceeded|ja|防犯}}, {{Node-count limit exceeded|ja|ぼうはん}} -prevention of crime
+{{Node-count limit exceeded|ja|方面}}, {{Node-count limit exceeded|ja|ほうめん}} -direction,district,field (e.g., of study)
+{{Node-count limit exceeded|ja|坊や}}, {{Node-count limit exceeded|ja|ぼうや}} -boy
+{{Node-count limit exceeded|ja|放る}}, {{Node-count limit exceeded|ja|ほうる}} -to let go
+{{Node-count limit exceeded|ja|ボーナス}} -bonus
+{{Node-count limit exceeded|ja|朗らか}}, {{Node-count limit exceeded|ja|ほがらか}} -brightness,cheerfulness,melodious
+{{Node-count limit exceeded|ja|牧場}}, {{Node-count limit exceeded|ja|ぼくじょう}} -(1) farm (livestock),(2) pasture land,meadow,grazing land
+{{Node-count limit exceeded|ja|牧畜}}, {{Node-count limit exceeded|ja|ぼくちく}} -stock-farming
+{{Node-count limit exceeded|ja|保健}}, {{Node-count limit exceeded|ja|ほけん}} -health preservation,hygiene,sanitation
+{{Node-count limit exceeded|ja|募集}}, {{Node-count limit exceeded|ja|ぼしゅう}} -recruiting,taking applications
+{{Node-count limit exceeded|ja|干す}}, {{Node-count limit exceeded|ja|ほす}} -to air,to dry,to desiccate,to drain (off),to drink up
+{{Node-count limit exceeded|ja|ポスター}} -poster
+{{Node-count limit exceeded|ja|北極}}, {{Node-count limit exceeded|ja|ほっきょく}} -North Pole
+{{Node-count limit exceeded|ja|坊っちゃん}}, {{Node-count limit exceeded|ja|ぼっちゃん}} -son (of others)
+{{Node-count limit exceeded|ja|ほどく}} -to unfasten
+{{Node-count limit exceeded|ja|堀}}, {{Node-count limit exceeded|ja|ほり}} -moat,canal
+{{Node-count limit exceeded|ja|掘る}}, {{Node-count limit exceeded|ja|ほる}} -to dig,to excavate
+{{Node-count limit exceeded|ja|彫る}}, {{Node-count limit exceeded|ja|ほる}} -to carve,to engrave,to sculpture,to chisel
+{{Node-count limit exceeded|ja|ぼろ}} -rag,scrap,tattered clothes,fault (esp. in a pretense)
+{{Node-count limit exceeded|ja|盆}}, {{Node-count limit exceeded|ja|ぼん}} -Lantern Festival,Festival of the Dead,tray
+{{Node-count limit exceeded|ja|盆地}}, {{Node-count limit exceeded|ja|ぼんち}} -basin (e.g. between mountains)
+{{Node-count limit exceeded|ja|本部}}, {{Node-count limit exceeded|ja|ほんぶ}} -headquarters
+{{Node-count limit exceeded|ja|本来}}, {{Node-count limit exceeded|ja|ほんらい}} -essentially,naturally,by nature
+{{Node-count limit exceeded|ja|まあまあ}} -so-so
+{{Node-count limit exceeded|ja|枚数}}, {{Node-count limit exceeded|ja|まいすう}} -the number of flat things
+{{Node-count limit exceeded|ja|毎度}}, {{Node-count limit exceeded|ja|まいど}} -each time,common service-sector greeting
+{{Node-count limit exceeded|ja|マイナス}} -minus
+{{Node-count limit exceeded|ja|巻く}}, {{Node-count limit exceeded|ja|まく}} -to wind,to coil,to roll
+{{Node-count limit exceeded|ja|蒔く}}, {{Node-count limit exceeded|ja|まく}} -to sow (seeds)
+{{Node-count limit exceeded|ja|撒く}}, {{Node-count limit exceeded|ja|まく}} -to scatter,to sprinkle,to sow
+{{Node-count limit exceeded|ja|枕}}, {{Node-count limit exceeded|ja|まくら}} -pillow,bolster
+{{Node-count limit exceeded|ja|曲げる}}, {{Node-count limit exceeded|ja|まげる}} -to bend,to crook,to lean
+{{Node-count limit exceeded|ja|まごまご}} -confused
+{{Node-count limit exceeded|ja|摩擦}}, {{Node-count limit exceeded|ja|まさつ}} -friction,rubbing,rubdown,chafe
+{{Node-count limit exceeded|ja|混ざる}}, {{Node-count limit exceeded|ja|まざる}} -to be mixed,to be blended with,to associate with,to mingle with,to join
+{{Node-count limit exceeded|ja|交ざる}}, {{Node-count limit exceeded|ja|まざる}} -to be mixed,to be blended with,to associate with,to mingle with,to join
+{{Node-count limit exceeded|ja|混じる}}, {{Node-count limit exceeded|ja|まじる}} -to be mixed,to be blended with,to associate with
+{{Node-count limit exceeded|ja|交じる}}, {{Node-count limit exceeded|ja|まじる}} -to be mixed,to be blended with,to associate with
+{{Node-count limit exceeded|ja|マスク}} -mask
+{{Node-count limit exceeded|ja|混ぜる}}, {{Node-count limit exceeded|ja|まぜる}} -to mix,to stir
+{{Node-count limit exceeded|ja|交ぜる}}, {{Node-count limit exceeded|ja|まぜる}} -to be mixed,to be blended with
+{{Node-count limit exceeded|ja|またぐ}} -to straddle
+{{Node-count limit exceeded|ja|又は}}, {{Node-count limit exceeded|ja|または}} -or,otherwise
+{{Node-count limit exceeded|ja|待合室}}, {{Node-count limit exceeded|ja|まちあいしつ}} -waiting room
+{{Node-count limit exceeded|ja|待ち合わせる}}, {{Node-count limit exceeded|ja|まちあわせる}} -to rendezvous,to meet at a prearranged place and time
+{{Node-count limit exceeded|ja|街角}}, {{Node-count limit exceeded|ja|まちかど}} -street corner
+{{Node-count limit exceeded|ja|真っ暗}}, {{Node-count limit exceeded|ja|まっくら}} -total darkness,shortsightedness,pitch dark
+{{Node-count limit exceeded|ja|真っ黒}}, {{Node-count limit exceeded|ja|まっくろ}} -pitch black
+{{Node-count limit exceeded|ja|真っ青}}, {{Node-count limit exceeded|ja|まっさお}} -deep blue,ghastly pale
+{{Node-count limit exceeded|ja|真っ先}}, {{Node-count limit exceeded|ja|まっさき}} -the head,the foremost,beginning
+{{Node-count limit exceeded|ja|真っ白}}, {{Node-count limit exceeded|ja|まっしろ}} -pure white
+{{Node-count limit exceeded|ja|祭る}}, {{Node-count limit exceeded|ja|まつる}} -to deify,to enshrine
+{{Node-count limit exceeded|ja|窓口}}, {{Node-count limit exceeded|ja|まどぐち}} -ticket window
+{{Node-count limit exceeded|ja|纏まる}}, {{Node-count limit exceeded|ja|まとまる}} -to be collected,to be settled,to be in order
+{{Node-count limit exceeded|ja|纏める}}, {{Node-count limit exceeded|ja|まとめる}} -to put in order,to collect,to bring to a conclusion
+{{Node-count limit exceeded|ja|真似る}}, {{Node-count limit exceeded|ja|まねる}} -to mimic,to imitate
+{{Node-count limit exceeded|ja|まぶしい}} -dazzling,radiant
+{{Node-count limit exceeded|ja|まぶた}} -eyelids
+{{Node-count limit exceeded|ja|マフラー}} -muffler,scarf
+{{Node-count limit exceeded|ja|間も無く}}, {{Node-count limit exceeded|ja|まもなく}} -soon,before long,in a short time
+{{Node-count limit exceeded|ja|マラソン}} -marathon
+{{Node-count limit exceeded|ja|円い}}, {{Node-count limit exceeded|ja|まるい}} -round,circular,spherical
+{{Node-count limit exceeded|ja|稀}}, {{Node-count limit exceeded|ja|まれ}} -rare,seldom
+{{Node-count limit exceeded|ja|回り道}}, {{Node-count limit exceeded|ja|まわりみち}} -detour
+{{Node-count limit exceeded|ja|満員}}, {{Node-count limit exceeded|ja|まんいん}} -full house,no vacancy,sold out
+{{Node-count limit exceeded|ja|マンション}} -large apartment,apartment house
+{{Node-count limit exceeded|ja|満点}}, {{Node-count limit exceeded|ja|まんてん}} -perfect score
+{{Node-count limit exceeded|ja|見送る}}, {{Node-count limit exceeded|ja|みおくる}} -(1) to see off,to farewell,(2) to escort,(3) to let pass
+{{Node-count limit exceeded|ja|見下ろす}}, {{Node-count limit exceeded|ja|みおろす}} -to overlook,to command a view of,to look down on something
+{{Node-count limit exceeded|ja|見掛け}}, {{Node-count limit exceeded|ja|みかけ}} -outward appearance
+{{Node-count limit exceeded|ja|三日月}}, {{Node-count limit exceeded|ja|みかづき}} -new moon,crescent moon
+{{Node-count limit exceeded|ja|岬}}, {{Node-count limit exceeded|ja|みさき}} -cape (on coast)
+{{Node-count limit exceeded|ja|みじめ}} -(arch) sad,pitiful,wretched
+{{Node-count limit exceeded|ja|ミシン}} -sewing machine
+{{Node-count limit exceeded|ja|店屋}}, {{Node-count limit exceeded|ja|みせや}} -store,shop
+{{Node-count limit exceeded|ja|見出し}}, {{Node-count limit exceeded|ja|みだし}} -heading,caption,subtitle,index
+{{Node-count limit exceeded|ja|道順}}, {{Node-count limit exceeded|ja|みちじゅん}} -itinerary,route
+{{Node-count limit exceeded|ja|見付かる}}, {{Node-count limit exceeded|ja|みつかる}} -to be found,to be discovered
+{{Node-count limit exceeded|ja|見付ける}}, {{Node-count limit exceeded|ja|みつける}} -to be familiar,to discover,to detect
+{{Node-count limit exceeded|ja|みっともない}} -shameful,indecent
+{{Node-count limit exceeded|ja|見直す}}, {{Node-count limit exceeded|ja|みなおす}} -to look again,to get a better opinion of
+{{Node-count limit exceeded|ja|見慣れる}}, {{Node-count limit exceeded|ja|みなれる}} -to become used to seeing,to be familiar with
+{{Node-count limit exceeded|ja|醜い}}, {{Node-count limit exceeded|ja|みにくい}} -ugly
+{{Node-count limit exceeded|ja|実る}}, {{Node-count limit exceeded|ja|みのる}} -to bear fruit,to ripen
+{{Node-count limit exceeded|ja|身分}}, {{Node-count limit exceeded|ja|みぶん}} -social position,social status
+{{Node-count limit exceeded|ja|見本}}, {{Node-count limit exceeded|ja|みほん}} -sample
+{{Node-count limit exceeded|ja|見舞う}}, {{Node-count limit exceeded|ja|みまう}} -to ask after (health),to visit
+{{Node-count limit exceeded|ja|未満}}, {{Node-count limit exceeded|ja|みまん}} -less than,insufficient
+{{Node-count limit exceeded|ja|名字}}, {{Node-count limit exceeded|ja|みょうじ}} -surname,family name
+{{Node-count limit exceeded|ja|ミリ}}, {{Node-count limit exceeded|ja|（メートル）}} -milli-,10^-3
+{{Node-count limit exceeded|ja|診る}}, {{Node-count limit exceeded|ja|みる}} -to examine (medical)
+{{Node-count limit exceeded|ja|民間}}, {{Node-count limit exceeded|ja|みんかん}} -private,civilian,civil,popular,folk,unofficial
+{{Node-count limit exceeded|ja|民謡}}, {{Node-count limit exceeded|ja|みんよう}} -folk song,popular song
+{{Node-count limit exceeded|ja|向う}}, {{Node-count limit exceeded|ja|むかう}} -(v5u) to face,to go towards
+{{Node-count limit exceeded|ja|剥く}}, {{Node-count limit exceeded|ja|むく}} -to peel,to skin,to pare,to hull
+{{Node-count limit exceeded|ja|無限}}, {{Node-count limit exceeded|ja|むげん}} -infinite
+{{Node-count limit exceeded|ja|無地}}, {{Node-count limit exceeded|ja|むじ}} -plain,unfigured
+{{Node-count limit exceeded|ja|蒸し暑い}}, {{Node-count limit exceeded|ja|むしあつい}} -humid,sultry
+{{Node-count limit exceeded|ja|矛盾}}, {{Node-count limit exceeded|ja|むじゅん}} -contradiction,inconsistency
+{{Node-count limit exceeded|ja|蒸す}}, {{Node-count limit exceeded|ja|むす}} -to steam,to poultice,to be sultry
+{{Node-count limit exceeded|ja|無数}}, {{Node-count limit exceeded|ja|むすう}} -countless number,infinite number
+{{Node-count limit exceeded|ja|紫}}, {{Node-count limit exceeded|ja|むらさき}} -purple colour,violet
+{{Node-count limit exceeded|ja|群れ}}, {{Node-count limit exceeded|ja|むれ}} -group,crowd,flock,herd
+{{Node-count limit exceeded|ja|姪}}, {{Node-count limit exceeded|ja|めい}} -niece
+{{Node-count limit exceeded|ja|名作}}, {{Node-count limit exceeded|ja|めいさく}} -masterpiece
+{{Node-count limit exceeded|ja|名刺}}, {{Node-count limit exceeded|ja|めいし}} -business card
+{{Node-count limit exceeded|ja|名詞}}, {{Node-count limit exceeded|ja|めいし}} -noun
+{{Node-count limit exceeded|ja|名所}}, {{Node-count limit exceeded|ja|めいしょ}} -famous place
+{{Node-count limit exceeded|ja|命ずる}}, {{Node-count limit exceeded|ja|めいずる}} -to command,to appoint
+{{Node-count limit exceeded|ja|迷信}}, {{Node-count limit exceeded|ja|めいしん}} -superstition
+{{Node-count limit exceeded|ja|名物}}, {{Node-count limit exceeded|ja|めいぶつ}} -famous product,special product,speciality
+{{Node-count limit exceeded|ja|銘々}}, {{Node-count limit exceeded|ja|めいめい}} -each,individual
+{{Node-count limit exceeded|ja|目上}}, {{Node-count limit exceeded|ja|めうえ}} -superior(s),senior
+{{Node-count limit exceeded|ja|メーター}} -meter (clock)
+{{Node-count limit exceeded|ja|恵まれる}}, {{Node-count limit exceeded|ja|めぐまれる}} -to be blessed with,to be rich in
+{{Node-count limit exceeded|ja|巡る}}, {{Node-count limit exceeded|ja|めぐる}} -to go around
+{{Node-count limit exceeded|ja|目指す}}, {{Node-count limit exceeded|ja|めざす}} -to aim at,to have an eye on
+{{Node-count limit exceeded|ja|目覚し}}, {{Node-count limit exceeded|ja|めざまし}} -(abbr) alarm-clock
+{{Node-count limit exceeded|ja|目下}}, {{Node-count limit exceeded|ja|めした}} -at present,now
+{{Node-count limit exceeded|ja|目印}}, {{Node-count limit exceeded|ja|めじるし}} -mark,sign,landmark
+{{Node-count limit exceeded|ja|目立つ}}, {{Node-count limit exceeded|ja|めだつ}} -to be conspicuous,to stand out
+{{Node-count limit exceeded|ja|めちゃくちゃ}} -absurd,unreasonable,excessive,messed up,spoiled,wreaked
+{{Node-count limit exceeded|ja|めっきり}} -remarkably
+{{Node-count limit exceeded|ja|めでたい}} -happy,simple soul,propitious,joyous
+{{Node-count limit exceeded|ja|メニュー}} -menu
+{{Node-count limit exceeded|ja|めまい}} -dizziness,giddiness
+{{Node-count limit exceeded|ja|目安}}, {{Node-count limit exceeded|ja|めやす}} -criterion,aim
+{{Node-count limit exceeded|ja|免税}}, {{Node-count limit exceeded|ja|めんぜい}} -tax exemption,duty exemption
+{{Node-count limit exceeded|ja|面積}}, {{Node-count limit exceeded|ja|めんせき}} -area
+{{Node-count limit exceeded|ja|面接}}, {{Node-count limit exceeded|ja|めんせつ}} -interview
+{{Node-count limit exceeded|ja|面倒臭い}}, {{Node-count limit exceeded|ja|めんどうくさい}} -bother to do,tiresome
+{{Node-count limit exceeded|ja|儲かる}}, {{Node-count limit exceeded|ja|もうかる}} -to be profitable,to yield a profit
+{{Node-count limit exceeded|ja|儲ける}}, {{Node-count limit exceeded|ja|もうける}} -to get,to earn,to gain,to have (bear, beget) a child
+{{Node-count limit exceeded|ja|申し訳ない}}, {{Node-count limit exceeded|ja|もうしわけない}} -inexcusable
+{{Node-count limit exceeded|ja|モーター}} -motor
+{{Node-count limit exceeded|ja|木材}}, {{Node-count limit exceeded|ja|もくざい}} -lumber,timber,wood
+{{Node-count limit exceeded|ja|目次}}, {{Node-count limit exceeded|ja|もくじ}} -table of contents
+{{Node-count limit exceeded|ja|潜る}}, {{Node-count limit exceeded|ja|もぐる}} -(1) to drive,to pass through,(2) to evade,to hide,(3) to dive (into or under water),to go undergroun
+{{Node-count limit exceeded|ja|もしかしたら}} -perhaps,maybe,by some chance
+{{Node-count limit exceeded|ja|もしかすると}} -perhaps,maybe,by some chance
+{{Node-count limit exceeded|ja|もたれる}} -to lean against,to lean on,to recline on,to lie heavy (on the stomach)
+{{Node-count limit exceeded|ja|モダン}} -modern
+{{Node-count limit exceeded|ja|餅}}, {{Node-count limit exceeded|ja|もち}} -sticky rice cake
+{{Node-count limit exceeded|ja|もったいない}} -too good,more than one deserves,wasteful,sacrilegious,unworthy of
+{{Node-count limit exceeded|ja|モデル}} -model
+{{Node-count limit exceeded|ja|元々}}, {{Node-count limit exceeded|ja|もともと}} -originally,by nature,from the start
+{{Node-count limit exceeded|ja|物置}}, {{Node-count limit exceeded|ja|ものおき}} -storage room
+{{Node-count limit exceeded|ja|物語る}}, {{Node-count limit exceeded|ja|ものがたる}} -to tell,to indicate
+{{Node-count limit exceeded|ja|物差し}}, {{Node-count limit exceeded|ja|ものさし}} -ruler,measure
+{{Node-count limit exceeded|ja|物凄い}}, {{Node-count limit exceeded|ja|ものすごい}} -earth-shattering,staggering,to a very great extent
+{{Node-count limit exceeded|ja|モノレール}} -monorail
+{{Node-count limit exceeded|ja|紅葉}}, {{Node-count limit exceeded|ja|もみじ}} -(1) (Japanese) maple
+{{Node-count limit exceeded|ja|揉む}}, {{Node-count limit exceeded|ja|もむ}} -to rub,to crumple (up),to wrinkle
+{{Node-count limit exceeded|ja|燃やす}}, {{Node-count limit exceeded|ja|もやす}} -to burn
+{{Node-count limit exceeded|ja|催し}}, {{Node-count limit exceeded|ja|もよおし}} -event,festivities,function
+{{Node-count limit exceeded|ja|盛る}}, {{Node-count limit exceeded|ja|もる}} -(1) to serve (food, etc.),(2) to fill up,(3) to prescribe
+{{Node-count limit exceeded|ja|問答}}, {{Node-count limit exceeded|ja|もんどう}} -questions and answers,dialogue
+{{Node-count limit exceeded|ja|やかましい}} -(1) noisy,(2) strict,fussy
+{{Node-count limit exceeded|ja|夜間}}, {{Node-count limit exceeded|ja|やかん}} -at night,nighttime
+{{Node-count limit exceeded|ja|薬缶}}, {{Node-count limit exceeded|ja|やかん}} -kettle
+{{Node-count limit exceeded|ja|役者}}, {{Node-count limit exceeded|ja|やくしゃ}} -actor,actress
+{{Node-count limit exceeded|ja|役所}}, {{Node-count limit exceeded|ja|やくしょ}} -government office,public office
+{{Node-count limit exceeded|ja|訳す}}, {{Node-count limit exceeded|ja|やくす}} -to translate
+{{Node-count limit exceeded|ja|役人}}, {{Node-count limit exceeded|ja|やくにん}} -government official
+{{Node-count limit exceeded|ja|薬品}}, {{Node-count limit exceeded|ja|やくひん}} -medicine(s),chemical(s)
+{{Node-count limit exceeded|ja|役目}}, {{Node-count limit exceeded|ja|やくめ}} -duty,business
+{{Node-count limit exceeded|ja|火傷}}, {{Node-count limit exceeded|ja|やけど}} -burn,scald
+{{Node-count limit exceeded|ja|夜行}}, {{Node-count limit exceeded|ja|やこう}} -walking around at night,night train,night travel
+{{Node-count limit exceeded|ja|矢印}}, {{Node-count limit exceeded|ja|やじるし}} -directing arrow
+{{Node-count limit exceeded|ja|やたらに}} -randomly,recklessly,blindly
+{{Node-count limit exceeded|ja|薬局}}, {{Node-count limit exceeded|ja|やっきょく}} -pharmacy,drugstore
+{{Node-count limit exceeded|ja|やっつける}} -to attack (an enemy),to beat,to do away with,to finish off
+{{Node-count limit exceeded|ja|家主}}, {{Node-count limit exceeded|ja|やぬし}} -landlord
+{{Node-count limit exceeded|ja|やっぱり}} -also,as I thought,still,in spite of,absolutely,of course
+{{Node-count limit exceeded|ja|破く}}, {{Node-count limit exceeded|ja|やぶく}} -to tear, to rip
+{{Node-count limit exceeded|ja|破れる}}, {{Node-count limit exceeded|ja|やぶれる}} -to get torn,to wear out
+{{Node-count limit exceeded|ja|やむをえない}} -cannot be helped,unavoidable
+{{Node-count limit exceeded|ja|軟らかい}}, {{Node-count limit exceeded|ja|やわらかい}} -soft,tender,limp
+{{Node-count limit exceeded|ja|遊園地}}, {{Node-count limit exceeded|ja|ゆうえんち}} -amusement park
+{{Node-count limit exceeded|ja|夕刊}}, {{Node-count limit exceeded|ja|ゆうかん}} -evening paper
+{{Node-count limit exceeded|ja|友好}}, {{Node-count limit exceeded|ja|ゆうこう}} -friendship
+{{Node-count limit exceeded|ja|郵送}}, {{Node-count limit exceeded|ja|ゆうそう}} -mailing
+{{Node-count limit exceeded|ja|夕立}}, {{Node-count limit exceeded|ja|ゆうだち}} -(sudden) evening shower (rain)
+{{Node-count limit exceeded|ja|夕日}}, {{Node-count limit exceeded|ja|ゆうひ}} -(in) the evening sun,setting sun
+{{Node-count limit exceeded|ja|悠々}}, {{Node-count limit exceeded|ja|ゆうゆう}} -quiet,calm,leisurely
+{{Node-count limit exceeded|ja|有料}}, {{Node-count limit exceeded|ja|ゆうりょう}} -admission-paid,toll
+{{Node-count limit exceeded|ja|浴衣}}, {{Node-count limit exceeded|ja|ゆかた}} -bathrobe,informal summer kimono,yukata
+{{Node-count limit exceeded|ja|湯気}}, {{Node-count limit exceeded|ja|ゆげ}} -steam,vapour
+{{Node-count limit exceeded|ja|輸血}}, {{Node-count limit exceeded|ja|ゆけつ}} -blood transfusion
+{{Node-count limit exceeded|ja|輸送}}, {{Node-count limit exceeded|ja|ゆそう}} -transport,transportation
+{{Node-count limit exceeded|ja|油断}}, {{Node-count limit exceeded|ja|ゆだん}} -negligence,unpreparedness
+{{Node-count limit exceeded|ja|ゆでる}} -to boil
+{{Node-count limit exceeded|ja|湯飲み}}, {{Node-count limit exceeded|ja|ゆのみ}} -teacup
+{{Node-count limit exceeded|ja|緩い}}, {{Node-count limit exceeded|ja|ゆるい}} -loose,lenient,slow
+{{Node-count limit exceeded|ja|溶岩}}, {{Node-count limit exceeded|ja|ようがん}} -lava
+{{Node-count limit exceeded|ja|容器}}, {{Node-count limit exceeded|ja|ようき}} -container,vessel
+{{Node-count limit exceeded|ja|用語}}, {{Node-count limit exceeded|ja|ようご}} -term,terminology
+{{Node-count limit exceeded|ja|要旨}}, {{Node-count limit exceeded|ja|ようし}} -gist,essentials,summary,fundamentals
+{{Node-count limit exceeded|ja|幼児}}, {{Node-count limit exceeded|ja|ようじ}} -infant,baby,child
+{{Node-count limit exceeded|ja|容積}}, {{Node-count limit exceeded|ja|ようせき}} -capacity,volume
+{{Node-count limit exceeded|ja|幼稚}}, {{Node-count limit exceeded|ja|ようち}} -infancy,childish,infantile
+{{Node-count limit exceeded|ja|幼稚園}}, {{Node-count limit exceeded|ja|ようちえん}} -kindergarten
+{{Node-count limit exceeded|ja|用途}}, {{Node-count limit exceeded|ja|ようと}} -use,usefulness
+{{Node-count limit exceeded|ja|洋品店}}, {{Node-count limit exceeded|ja|ようひんてん}} -shop which handles Western-style apparel and accessories
+{{Node-count limit exceeded|ja|養分}}, {{Node-count limit exceeded|ja|ようぶん}} -nourishment,nutrient
+{{Node-count limit exceeded|ja|羊毛}}, {{Node-count limit exceeded|ja|ようもう}} -wool
+{{Node-count limit exceeded|ja|漸く}}, {{Node-count limit exceeded|ja|ようやく}} -gradually,finally,hardly
+{{Node-count limit exceeded|ja|要領}}, {{Node-count limit exceeded|ja|ようりょう}} -point,gist,essentials,outline
+{{Node-count limit exceeded|ja|欲張り}}, {{Node-count limit exceeded|ja|よくばり}} -avarice,covetousness,greed
+{{Node-count limit exceeded|ja|余計}}, {{Node-count limit exceeded|ja|よけい}} -too much,unnecessary,abundance,surplus,excess,superfluity
+{{Node-count limit exceeded|ja|よこす}} -(1) to send,to forward,(2) to hand over (e.g. money)
+{{Node-count limit exceeded|ja|汚す}}, {{Node-count limit exceeded|ja|よごす}} -(1) to disgrace,to dishonour,(2) to pollute,to contaminate,to soil,to make dirty,to stain
+{{Node-count limit exceeded|ja|寄せる}}, {{Node-count limit exceeded|ja|よせる}} -to collect,to gather,to add,to put aside
+{{Node-count limit exceeded|ja|余所}}, {{Node-count limit exceeded|ja|よそ}} -another place,somewhere else,strange parts
+{{Node-count limit exceeded|ja|四つ角}}, {{Node-count limit exceeded|ja|よつかど}} -four corners,crossroads
+{{Node-count limit exceeded|ja|酔っ払い}}, {{Node-count limit exceeded|ja|よっぱらい}} -drunkard
+{{Node-count limit exceeded|ja|予備}}, {{Node-count limit exceeded|ja|よび}} -preparation,preliminaries,reserve,spare
+{{Node-count limit exceeded|ja|呼び掛ける}}, {{Node-count limit exceeded|ja|よびかける}} -to call out to,to accost,to address (crowd),to appeal
+{{Node-count limit exceeded|ja|呼び出す}}, {{Node-count limit exceeded|ja|よびだす}} -to summon,to call (e.g. phone)
+{{Node-count limit exceeded|ja|蘇る}}, {{Node-count limit exceeded|ja|よみがえる}} -to be resurrected,to be revived,to be resuscitated,to be rehabilitated
+{{Node-count limit exceeded|ja|因る}}, {{Node-count limit exceeded|ja|よる}} -to come from
+{{Node-count limit exceeded|ja|慶び}}, {{Node-count limit exceeded|ja|よろこび}} -(n) (a) joy,(a) delight,rapture,pleasure,gratification,rejoicing,congratulations,felicitations
+{{Node-count limit exceeded|ja|慶ぶ}}, {{Node-count limit exceeded|ja|よろこぶ}} -to be pleased
+{{Node-count limit exceeded|ja|来日}}, {{Node-count limit exceeded|ja|らいにち}} -arrival in Japan,coming to Japan,visit to Japan
+{{Node-count limit exceeded|ja|落第}}, {{Node-count limit exceeded|ja|らくだい}} -failure,dropping out of a class
+{{Node-count limit exceeded|ja|ラッシュアワー}} -rush hour
+{{Node-count limit exceeded|ja|欄}}, {{Node-count limit exceeded|ja|らん}} -column of text (e.g. as in a newspaper)
+{{Node-count limit exceeded|ja|ランチ}} -launch,lunch
+{{Node-count limit exceeded|ja|ランニング}} -(1) running,(2) tank top
+{{Node-count limit exceeded|ja|乱暴}}, {{Node-count limit exceeded|ja|らんぼう}} -rude,violent,rough,lawless,unreasonable,reckless
+{{Node-count limit exceeded|ja|理科}}, {{Node-count limit exceeded|ja|りか}} -science
+{{Node-count limit exceeded|ja|利害}}, {{Node-count limit exceeded|ja|りがい}} -advantages and disadvantages,interest
+{{Node-count limit exceeded|ja|リズム}} -rhythm
+{{Node-count limit exceeded|ja|リットル}} -litre
+{{Node-count limit exceeded|ja|リボン}} -ribbon
+{{Node-count limit exceeded|ja|略す}}, {{Node-count limit exceeded|ja|りゃくす}} -to abbreviate
+{{Node-count limit exceeded|ja|流域}}, {{Node-count limit exceeded|ja|りゅういき}} -(river) basin
+{{Node-count limit exceeded|ja|寮}}, {{Node-count limit exceeded|ja|りょう}} -hostel,dormitory
+{{Node-count limit exceeded|ja|両側}}, {{Node-count limit exceeded|ja|りょうがわ}} -both sides
+{{Node-count limit exceeded|ja|漁師}}, {{Node-count limit exceeded|ja|りょうし}} -fisherman
+{{Node-count limit exceeded|ja|領事}}, {{Node-count limit exceeded|ja|りょうじ}} -consul
+{{Node-count limit exceeded|ja|領収}}, {{Node-count limit exceeded|ja|りょうしゅう}} -receipt,voucher
+{{Node-count limit exceeded|ja|臨時}}, {{Node-count limit exceeded|ja|りんじ}} -temporary,special,extraordinary
+{{Node-count limit exceeded|ja|留守番}}, {{Node-count limit exceeded|ja|るすばん}} -care-taking,caretaker,house-watching
+{{Node-count limit exceeded|ja|例外}}, {{Node-count limit exceeded|ja|れいがい}} -exception
+{{Node-count limit exceeded|ja|零点}}, {{Node-count limit exceeded|ja|れいてん}} -zero,no marks
+{{Node-count limit exceeded|ja|冷凍}}, {{Node-count limit exceeded|ja|れいとう}} -freezing,cold storage,refrigeration
+{{Node-count limit exceeded|ja|レインコート}} -raincoat
+{{Node-count limit exceeded|ja|レクリェーション}} -recreation
+{{Node-count limit exceeded|ja|レジャー}} -leisure
+{{Node-count limit exceeded|ja|列島}}, {{Node-count limit exceeded|ja|れっとう}} -chain of islands
+{{Node-count limit exceeded|ja|レベル}} -level
+{{Node-count limit exceeded|ja|リポート}} -report,paper
+{{Node-count limit exceeded|ja|煉瓦}}, {{Node-count limit exceeded|ja|れんが}} -brick
+{{Node-count limit exceeded|ja|連合}}, {{Node-count limit exceeded|ja|れんごう}} -union,alliance
+{{Node-count limit exceeded|ja|レンズ}} -lens
+{{Node-count limit exceeded|ja|蝋燭}}, {{Node-count limit exceeded|ja|ろうそく}} -candle
+{{Node-count limit exceeded|ja|ローマじ}} -romanization,Roman letters
+{{Node-count limit exceeded|ja|録音}}, {{Node-count limit exceeded|ja|ろくおん}} -(audio) recording
+{{Node-count limit exceeded|ja|ロッカー}} -locker
+{{Node-count limit exceeded|ja|ロビー}} -lobby
+{{Node-count limit exceeded|ja|論ずる}}, {{Node-count limit exceeded|ja|ろんずる}} -to argue,to discuss,to debate
+{{Node-count limit exceeded|ja|和英}}, {{Node-count limit exceeded|ja|わえい}} -Japanese-English
+{{Node-count limit exceeded|ja|分かる}}, {{Node-count limit exceeded|ja|わかる}} -to be understood
+{{Node-count limit exceeded|ja|分かれる}}, {{Node-count limit exceeded|ja|わかれる}} -to branch off,to diverge from,to fork,to split,to dispense,to scatter,to divide into
+{{Node-count limit exceeded|ja|若々しい}}, {{Node-count limit exceeded|ja|わかわかしい}} -youthful,young
+{{Node-count limit exceeded|ja|湧く}}, {{Node-count limit exceeded|ja|わく}} -to boil,to grow hot,to get excited,to gush forth
+{{Node-count limit exceeded|ja|詫びる}}, {{Node-count limit exceeded|ja|わびる}} -to apologize
+{{Node-count limit exceeded|ja|和服}}, {{Node-count limit exceeded|ja|わふく}} -Japanese clothes
+{{Node-count limit exceeded|ja|わりあいに}} -comparatively
+{{Node-count limit exceeded|ja|割算}}, {{Node-count limit exceeded|ja|わりざん}} -division (math)
+{{Node-count limit exceeded|ja|割と}}, {{Node-count limit exceeded|ja|わりと}} -relatively, comparitively
+{{Node-count limit exceeded|ja|割引}}, {{Node-count limit exceeded|ja|わりびき}} -discount,reduction,rebate
+{{Node-count limit exceeded|ja|椀}}, {{Node-count limit exceeded|ja|わん}} -Japanese soup bowl,wooden bowl
+{{Node-count limit exceeded|ja|碗}}, {{Node-count limit exceeded|ja|わん}} -bowl
+{{Node-count limit exceeded|ja|ワンピース}} -one-piece dress

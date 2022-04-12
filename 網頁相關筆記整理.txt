@@ -1,0 +1,589 @@
+開發概念
+1. library和framework的差異
+	library: You are full control when you call a method from a library and the control is then returned.
+	framework: The code never calls into a framework, instead the framework calls you.
+	
+2. code refactor
+	- readability => 可讀性 => 一年後的自己看不看得懂
+	-- modularity => 結構化、模組化 => 重複使用上有多容易，縮小代碼或代碼文件確切負責的部分
+	--- efficiency => 效能 => 如何提升效能
+	-X length => 編碼的長度，但這不重要(重要是在維持可讀性和模組化的情形下)
+
+3. restful-api
+	網頁的api基於http協定，	api發送的形式，要是http能理解的樣子。
+	也有其他協定，如ftp就是基於檔案傳輸的協定，亦有其規則
+	restful-api是一種符合http動詞url設計風格，讓url的可讀性和其背後運作的http動詞(request method)一致
+	
+3.2 常用http動詞
+	- get: read data
+		/random, /all, /search
+	- post: create data
+		/add
+	- put: update entire data
+	- patch: update part of data
+		/update-price/<int:cafe_id>
+	- delete: delete data
+		/report-closed/<int:cafe_id>
+
+3.3 可利用postman產生api-document
+	利用postman或是curl(cmd), requests(python)模組：才能執行不同動作的request method(get, post, put, patch, put, delete)去打相關api
+	瀏覽器中輸入url默認都是get, 而網頁表單提交的動作默認為post
+
+3.4 網頁表單只有post方法
+	HTML forms (WTForms included) do not accept PUT, PATCH or DELETE methods.
+	所以即使是一個update的動作，仍然使用post，而非put/patch
+	So while this would normally be a PUT request (replacing existing data), because the request is coming from a HTML form, you should accept the edited post as a POST request.
+  
+4. 序列化(serialization)
+	https://zh.wikipedia.org/wiki/%E5%BA%8F%E5%88%97%E5%8C%96#Python
+	在數據儲存與傳送的部分是指將一個物件儲存至一個儲存媒介，例如檔案或是記憶體緩衝等，或者透過網路傳送資料時進行編碼的過程，可以是位元組或是XML等格式。
+	而位元組的或XML編碼格式可以還原完全相等的物件。這程式被應用在不同應用程式之間傳送物件，以及伺服器將物件儲存到檔案或資料庫。相反的過程又稱為反序列化。
+	EX：把內容轉換成json或XML，之後再讀取回來。
+
+5. 關於localhost與127.0.0.1與0.0.0.0
+	127.0.0.1是一個loopback address，也就是localhost，你只能在server所在的位置對網頁發出請求
+	0.0.0.0 is a non-routable address, 但它在不同場合、裝置、或框架下會有不同意涵。在flask中，代表允許其他裝置可以存取該網頁。
+	
+6. 關於session
+	Web 技術中的 Session 是什麼？
+	https://fred-zone.blogspot.com/2014/01/web-session.html
+		Session 的原理
+		Session 和 Cookie 相關性
+		Cookie-based Session
+		Session 傳值
+		
+7. 關於MIXIN
+	Mixin: https://zh.wikipedia.org/wiki/Mixin
+	通过 Python 理解 Mixin 概念
+	https://zhuanlan.zhihu.com/p/95857866
+	Mixin 實質上是利用語言特性，可以把它看作一種特殊的多重繼承，所以它並不是 Python 獨享，只要支持多重繼承或者類似特性的都可以使用，比如 Ruby 中 include 語法，Vue 等前端領域也有 Mixin 的概念。
+	但 Mixin 終歸不屬於語言的語法，為了代碼的可讀性和可維護性，定義和使用 Mixin 類應該遵循幾個原則： 
+		Mixin 實現的功能需要是通用的，並且是單一的，比如上例中兩個 Mixin 類都適用於大部分子類，每個 Mixin 只實現一種功能，可按需繼承。 
+		Mixin 只用於拓展子類的功能，不能影響子類的主要功能，子類也不能依賴 Mixin。比如上例中 Person 繼承不同的 Mixin 只是增加了一些功能，並不影響自身的主要功能。如果是依賴關係，則是真正的基類，不應該用 Mixin 命名。 
+		Mixin 類自身不能進行實例化，僅用於被子類繼承。
+		
+8. 基礎加密概念
+	傳統加密是雙向的：導致了風險
+		利用 (明碼+密鑰)透過加密方法 => 得到暗碼
+		因此也可以利用 (暗碼+密鑰)加密方法 => 回推得到明碼
+	
+	Hash則是設計成不可逆
+		Hash function 設計成可以快速地向前計算，卻無法藉由計算後的結果和hash_function往回推敲它原本的值
+		資料庫中儲存的是Hash後的值，而不存儲明碼
+			下次user輸入密碼時，對其明碼做同樣的Hash看是否和資料庫中的值一樣
+			明碼永遠只有user知道。就算資料庫被駭暗碼流露出去，因為無法輕易逆推明碼仍舊不會被駭客所知
+
+		Hash table
+			事先推測各種可能的明碼對它們做hash，自行算出明碼和hash_value的關係表，再查看user的hash_value是否有對應的
+			過於常用的明碼，會有已經事先計算好的雜湊表，很輕易就會被破解
+			硬體強化，算力變強 => 更有機會製作出涵蓋目標值的hash table
+			
+		hash的安全性加強: 增加複雜度，讓製作出hash table時間成本變高
+			明碼複雜度會倒置雜湊計算的複雜度上升
+			加鹽(salt)，為每個user配置一組隨機的salt加在尾巴，增加其計算的的複雜度
+			salt-round，多次加鹽，將前鹽後的雜奏值再重複多次雜湊計算
+			使用hash較慢的演算法例如：MD5向前計算較快，Bcypt向前計算較慢
+		結論：資料庫永遠只存儲該user的hash_value和salt
+
+9. git使用
+	可以參考資策會git筆記
+	
+	9.2 git in pycharm
+	local git
+		git init
+			VCS -> Enable Version Control Integration
+			This is the same as what we did before with `git init`
+		
+		git add
+			點選資料夾右鍵可以看到add
+		
+		commit提交
+		remote git
+			 Add your GitHub details to PyCharm
+				Windows: File -> Settings -> Version Control -> GitHub
+				Mac: PyCharm -> Preferences -> Version Control -> GitHub
+				Then click on the "+" button and select Login via GitHub
+			Create a new GitHub repo 
+				git-> github -> Share Project on GitHub
+	
+	9.3 建立.gitignore
+	gitignore.io中依據關鍵字尋找相應文件，ex:python, flask
+		https://www.toptal.com/developers/gitignore
+		
+	
+				
+10 環境變數隱藏私人訊息
+	要將程式碼丟到網路上時，將重要/私人資訊丟到環境變數中去讀取，而不要裸露在程式碼中(D35有提到環境變數的概念)
+	
+	在local端可以利用.env將變數內容放置其中讀取，並且.gitignore去忽略該檔案在git control中
+	.env file python
+		Using .env Files for Environment Variables in Python Applications
+			https://dev.to/jakewitcher/using-env-files-for-environment-variables-in-python-applications-55a1
+		Reading in environment variables from an environment file
+			https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file
+			
+	若在container中或是線上平台部署，可以尋找有沒有能鍵入到環境變數的選項
+		在bash等shell中export環境變數來取用
+			僅存在單次的shell中，或是設置在/etc/profile每次都自動建立該變數
+		在PythonAnywhere中可以在terminal中建置環境變數來讀取
+		在Heroku上setting裡有Config Vars，其相當於設置環境變數
+		
+11. heroku部署python應用程式
+	讓heroku連接上github做自動化部署
+		第一次手動部署後，之後就讓heroku自動追蹤github做自動部署
+	
+	選擇使用gunicorn當作實現WSGI的web-server
+		安裝相關package
+			local端其實不需要安裝也沒關係
+			主要是添加到requirement.txt中讓heroku會讀取其中內容部署。
+		依照heroku說明，添加Procfile=> web: gunicorn main:app
+		
+	改用postgres而非SQLite
+		SQLite is a file-based database. This is its strength and weakness.
+			strength:
+			很簡單可以查看DB內容，在coding設計和debug時非常方便。
+			weakness:
+			heroku時每24小時就會清除檔案的暫存內容，因此部署時不能留存內容。
+		在resource add-ons:heroku postgres
+			config-var中可以找到connection string
+			config-var如同環境變數的概念，利用os.getenv("key")取出
+		安裝相關package
+			psycopg2-binary加入requirement.txt中
+		ORM使資料庫部署變得通用
+			因為我們使用 SQLAlchemy 來創建我們的 Flask 應用程序，所以我們不需要在代碼方面進行任何更改。 我們只需要設置 PostgreSQL 數據庫並告訴 Heroku。
+		
+12. WSGI(Web Server Gateway Interface)
+	此練習中選擇gunicorn當作WSGI server
+		It standardises the language and protocols between our Python Flask application and the host server.
+		Normal web servers can't run Python applications, so a special type of server was created (WSGI) to run python applications.
+	
+	WSGI，是需要被實踐的協定
+		簡單來說是一種規範，僅用於 Python 語言，於 PEP 333被提出來規範 Web Server 和 Web Application 之間如何溝通。
+	什麼是 gunicorn / uWSGI
+		它們實現了 WSGI、uwsgi、http 等規範的 Web Server。用於接收前端伺服器轉發的動態請求並處理後發給 Web Application。
+	參考資料:
+		【Flask教學系列】Flask 為甚麼需要 WSGI 與 Nginx
+			https://www.maxlist.xyz/2020/05/06/flask-wsgi-nginx/
+	
+	
+	為什麼需要 web server 呢?
+		製作 framework 的開發人員不用去管如何應付大量請求這些問題，可以分開讓更專業的 server 開發人員去做。
+		web server 諸如 NGINX 、APACHE，可以提供附載平衡(load balance)、反向代理(reverse proxy)以及更快速的提供靜態檔案等等的功能，這些功能對於實際部署到主機上非常重要。
+		
+	WSGI 定義了 web server 跟 python web application 之間溝通的規範。
+		傳統的 web server 中，像是 NGINX, APACHE 是無法去執行 Python web applicatION 的。
+		提供開發者很大的彈性，可以自由選擇不同的 web server 跟 python web application 去做搭配使用，只要是兩者都有符合 WSGI 就可以。
+		
+	以 Django 搭配 gunicorn 為例，在 Django 中的 wsgi.py 檔案裡有定義了一個 application 的變數，提供 gunicorn 去呼叫 Django 的程式。
+		WSGI server 負責接收 client 來的請求，並且負責處理大量且同步的請求。
+		接收到請求後，會轉發到 web application 或稱為 framework 這邊。
+		處理完後，再將回應透過 WSGI server 傳到 client 手上。
+	參考資料:
+		什麼是 WSGI
+		https://medium.com/@eric248655665/%E4%BB%80%E9%BA%BC%E6%98%AF-wsgi-%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E7%94%A8-wsgi-f0d5f3001652
+		
+	WSGI協議內容與實踐
+		參考資料：
+			花了两个星期，我终于把 WSGI 整明白了
+				https://www.cnblogs.com/wongbingming/p/11002978.html
+			Python Web開發最難懂的WSGI協議，到底包含哪些內容？
+				https://iter01.com/50844.html
+			
+
+
+
+python概念
+1. __name__所代表的意義
+
+2. decorator的概念
+def logging_decorator(fn):
+    def wrapper(*args, **kwargs):
+        para_call = ", ".join([str(arg) for arg in args] + [f"{k}={v}" for k, v in kwargs.items()])
+        print(f"You called {fn.__name__}({para_call})")
+        result = fn(*args, **kwargs)
+    return wrapper
+	
+	2.1  關於＠wraps
+		https://medium.com/@op880623/python-wraps-b75114610bac
+		讓__name__, __doc__等基本訊息維持function的基本訊息，而不是被wrapper的基本訊息所取代
+		 it helps prevent decorators from masking identity of the decorated functions. Thus, the functions can keep their metadata(fuction name, docstrings etc.) even after they are decorated by decorators.
+
+3. Python 函式宣告先後順序的問題
+	https://www.gushiciku.cn/pl/2SvZ/zh-tw
+	．python無所謂提升宣告
+	．python是逐行直譯，若呼叫了尚未宣告的函數或物件會報錯
+	．若設有程式入口點，入口點之前的函式有互相引用是可以接受的
+		Python 從第1行自上往下解析到程式入口時，函數並未被真正呼叫，因此不會抱錯
+		而入口點之後函式都已解析到了，所以回過頭來函數之間怎麼呼叫都無妨
+		
+4. __repr__ vs __str__
+	str() 用於為最終用戶創建輸出，而 repr() 主要用於調試和開發。
+	repr 的目標是明確的，而 str 的目標是可讀的。
+	例如，如果我們懷疑一個浮點數有一個小的捨入誤差，repr 會告訴我們而 str 可能不會
+	
+5. OOP 裝飾器
+	@staticmethod
+	@property
+	@classmethod
+	
+6. Python getattr()、setattr() 函數
+	getattr() 函數用於返回一個對象屬性值。
+	https://www.runoob.com/python/python-func-getattr.html
+	
+
+		
+	
+flask使用
+1. debug mode
+	automatic reloader, debug log
+	
+2. 可以在url中使用variable rule
+	# varibale rule會用keyword argument的形式丟入底下的function中
+	@app.route("/username/<name>/<int:number>")
+	def greet(name, number):
+		return f"Hello there {name}, you are {number} years old!"
+
+3. 依循著框架所給予的規則
+	render template、static file
+		HTML的樣板要放在templates資料夾
+		靜態檔案如css、圖片等要放在static
+
+4. url_for()、rediect()
+	url_for()：可以指到某一個function的url所在位置
+	flask如何在redirect時傳遞參數
+	How can I pass arguments into redirect(url_for()) of Flask?
+		https://stackoverflow.com/questions/26954122/how-can-i-pass-arguments-into-redirecturl-for-of-flask
+	url_for(route_def, **kwarsgs)
+	kwarsgs中的鍵值對會傳入新的url中
+		若轉跳的url中有設置Variable Rules，且key name有對應到就會傳入其中。
+		若沒有相應的Variable Rules，就會以parameters的方式帶在url後，以request.args.get(key_name)取用。
+
+5. jinja樣板引擎-語法
+	expression => {{}}
+	單行表達式
+	
+	statement =>{%for ...%} {% endfor %}
+	一些多行的邏輯控制
+	
+	5.2 jinja樣板引擎-樣板繼承
+	inject template 
+		{% include "header.html" %}
+		Web page content
+		{% include "footer.html" %}
+
+	Inheriting Templates 
+		{% extends "base.html" %}
+		{% block title %}Success{% endblock %}
+		{% block content %}
+		   <div class="container">
+			  <h1>Top Secret </h1>
+			  <iframe src="https://giphy.com/embed/Ju7l5y9osyymQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+			  <p><a href="https://giphy.com/gifs/rick-astley-Ju7l5y9osyymQ">via GIPHY</a></p>
+		   </div>
+		{% endblock %}
+		
+	Super Blocks
+		<style>
+		{% block styling %}
+		body{
+			background: purple;
+		}
+		{% endblock %}
+		</style>
+	------------------
+		{% block styling %}
+		   {‌{ super() }}
+		   h1 {
+			  color:red;
+		   }
+		{% endblock %}
+
+	5.3 Using Flask-Bootstrap as an Inherited Template
+		{% extends "bootstrap/base.html" %}
+	
+
+6. flask 表單建立 :WTForms
+	- Built in CSRF Protection
+		about csrf: https://owasp.org/www-community/attacks/csrf
+		
+	- app.secret_key和建立CSRF_token有關
+		https://zhuanlan.zhihu.com/p/23605789
+		
+	- form.validate_on_submit()是由flask_wtf提供的method
+		通過is_submitted()通過判斷HTTP方法來確認是否提交了表單
+		通過WTForms提供的validate()來驗證表單數據（使用我們在下面的表單類裡給每個字段傳入的驗證函數）
+		驗證CSRF
+			表單實作：https://hackmd.io/@shaoeChen/ByofdR1XG?type=view
+			表單驗證：https://zhuanlan.zhihu.com/p/23605845
+			
+	- Flask-Bootstrap Supports WTForms
+		novalidate=True取消瀏覽器對資料欄位的驗證，而使用flask去驗證與顯示提示
+		{% import "bootstrap/wtf.html" as wtf %}
+			{% block title %}
+			Login
+			{% endblock %}
+			{% block content %}
+				<div class="container">
+					<h1>Login</h1>
+					{{ wtf.quick_form(form, novalidate=True) }}
+				</div>
+			{% endblock %}
+				
+	6.2 ckediter 搭配 wtforms
+		利用Flask-Bootstrap快速部署
+			{% import "bootstrap/wtf.html" as wtf %}
+			{{ wtf.quick_form(form) }}
+			在其中一欄config ckediter 做使用
+			
+	6.3 flask secret-key 補充
+		SECRET_KEY 的作用主要是提供一個值做各種 HASH, 作為算法的一個參數(salt 或其他). 所以這個值的複雜度也就影響到了數據傳輸和存儲時的複雜度.
+		另外, 考慮到安全性, 這個密鑰是不建議存儲在程序中. 最好的方法是存儲在系統環境變量中, 通過 os.getenv(key, default=None) 獲得.
+		
+7. sqlalchemy ─ sqlite連接字串
+	sqlite:////絕對路徑
+	sqlite:///相對路徑
+
+8. sqlAlchemy介紹
+	同Hibernate為「對象映射器模式（data mapper pattern）」
+		數據映射器是，在持久化數據存儲（經常是關係資料庫）和內存中數據表示（領域層）之間，進行雙向轉移的數據訪問層。
+		這個模式的目標是，保持內存中表示和持久化數據之間相互獨立，並獨立於數據映射器自身。
+		數據訪問層是由一個或多個映射器（或數據訪問對象）構成，它們進行數據轉移。
+	並非「主動記錄模式（active record pattern）」
+		物件實例被連結到這個表格的一個單一行：在一個物件建立之後，在儲存時將一個新行增加到表格中；在一個物件被更新的時候，在表格中對應的行也被更新。
+		
+	8.2 sqlAlchemy- model
+	延續data mapper pattern的概念
+		Q1：Flask-SQLAlchemy 的模型定義是做什麼？
+		A1：模型通常是 Python類別，以它的屬性匹配對應的資料表欄位，以此模型建立表格或對應資料庫內容將其映射下來做操作
+
+		Q2：如果資料庫表已經建立好了，還有需要定義模型嗎？
+		A2：需要，因為要利用模型這個中介來對資料庫內容映射下來，若有更新模型的資料內容也必須寫回去DB才會同步
+		
+		3. model的內容不需要和db_table的內容完全一樣
+		mapper可以脫離DB中表格的形式與內容，只將表格的部分內容映射上去
+		
+	8.3 sqlAlchemy中建立relationship
+	官方doc：Basic Relationship Patterns
+		https://docs.sqlalchemy.org/en/13/orm/basic_relationships.html#basic-relationship-patterns
+		https://www.osgeo.cn/sqlalchemy/orm/basic_relationships.html
+		
+	[Flask教學] Flask-SQLAlchemy -ORM 一對多關聯篇 (三)
+		https://www.maxlist.xyz/2019/11/24/flask-sqlalchemy-orm/
+		首先 Product (一對多的一) 的部分需要設定 db.relationship() 來讓 SQLAlchemy 知道 Product 和 AddToCar 是有關聯的，而 backref=”product” 中的 product 則像是暗號，未來在讀取 AddToCar 表格時，後面只需像這樣加上 AddToCar.product，就可以輕鬆讀取到 Product 表格內的資料
+		再來 AddToCar (一對多的多) 的部分需要設定 db.ForeignKey() 來告訴 SQLAlchemy 當兩張表連結時要以什麼為外接的 key。
+		
+	深究SQLAlchemy中的表關係 Table Relationships
+		https://www.twblogs.net/a/5c493201bd9eee6e7e06671c
+	SQLAlchemy 学习笔记（三）：ORM 中的关系构建
+		https://www.cnblogs.com/kirito-c/p/10900024.html
+	relationship 函數在 ORM 中用於構建表之間的關聯關係。
+	與 ForeignKey 不同的是，它定義的關係不屬於表定義，而是動態計算的。 用它定義出來的屬性，相當於 SQL 中的視圖。
+		
+	8.4 backref 與 back_populates
+		可以把backref和back_populates都讀爲"as"
+		兩個參數的效果完全一致，區別在於，backref 只需要在 Parent 類中聲明 children，Child.parent 會被動態創建。 而 back_populates 必須在兩個類中顯式地使用 back_populates，表示更為繁瑣且明確。
+		back_populates要求父類子類的關係名稱必須嚴格“對稱”：
+			父類的relationship屬性名children，必須對應子類的關係中的back_populates中的值
+			子類的relationship屬性名parent，必須對應父類的關係中的back_populates中的值
+		一對多
+			class Parent(Base):
+			__tablename__ = 'parent'
+			id = Column(Integer, primary_key=True)
+			children = relationship("Child", back_populates="parent")  # back_populates  => children 的集合，相當於一個視圖
+			
+			class Child(Base):
+			__tablename__ = 'child'
+			id = Column(Integer, primary_key=True)
+			parent_id = Column(Integer, ForeignKey('parent.id'))
+			parent = relationship("Parent", back_populates="children")  # parent 不是集合，是属性！
+			# 聲明的兩個 relationship 不需要多餘的說明，SQLAlchemy 能自動識別到 parent.children 是 collection，child.parent 是 attribute.
+			
+	8.5 sqlalchemy model和flask-app分開
+		flask系列之分離model與app
+			https://blog.csdn.net/ithongchou/article/details/103905800
+		separate sqlalchemy models: Flask-SQLAlchemy import/context issue
+			https://stackoverflow.com/questions/9692962/flask-sqlalchemy-import-context-issue/9695045#9695045
+		RuntimeError: No application found
+			https://stackoverflow.com/questions/46540664/no-application-found-either-work-inside-a-view-function-or-push-an-application
+
+
+9. 網易操作：編輯特某筆資料
+	edit動作的url，把ID傳入其中，接到ID後強迫將其放入即將post的表單中
+	url_for('要轉跳的方法', 可以挾帶要傳遞的參數) => 同利用get method傳遞參數，並且可以用request.args.get('參數名')取出內容值
+	<input hidden="hidden" name="id" value="{{book.id}}"> => 可以用hidden把固定要回傳的參數隱藏在表單中帶過去
+	
+9.2 falsk的request有許多屬性可以應用
+	Flask request 属性详解 https://www.twblogs.net/a/5c7fb724bd9eee35cd6935cf?lang=zh-cn
+	Flask get current route https://stackoverflow.com/questions/21498694/flask-get-current-route
+	
+10 escape: url escaping 
+	https://www.url-encode-decode.com/
+	
+	10.2 HTML Escaping in ckediter
+		在ckediter中輸入的內容 => 會自動轉換成HTML格式
+			編輯器上看到的格式內容，在原始碼上會利用tag格式包覆起來
+			若輸入的內容含有(>, <, &, or ") => 自動利用HTML Escaping做轉換
+			
+	10.3 HTML Escaping in jinja
+		jinja中如果遇到內容中帶有：>, <, &, "
+				=> 會自行將它利用跳脫字元轉譯，因此不會讓內容當作tag去解析，而是變成文字呈現
+				
+			若想要內容維持原本的樣子，發揮tag的作用
+				=> 可以利用jinja中的filter: . {‌{ Jinja expression | Jinja filter }}
+				=> 利用safe filter可以讓jinja不轉譯內容
+
+		Filter 過濾器()
+			一個 filter 過濾器的本質就是一個 function 函式。使用格式為： 變數名 | 函式 。
+			實際行為就是把變數傳給函式，然後再把返回值作為這個程式碼塊的值。
+			
+	10.4 想要tag發揮作用，但防止注入攻擊
+		但若直接將內容標記為safe是不安全的，若有人在內容中輸入script會照樣被執行
+			<script> evil script</script>
+			跨網站指令碼（英語：Cross-site scripting，通常簡稱為：XSS）	一種網站應用程式的安全漏洞攻擊，是代碼注入的一種。它允許惡意使用者將程式碼注入到網頁上，其他使用者在觀看網頁時就會受到影響。這類攻擊通常包含了HTML以及使用者端手稿語言。
+		
+		ckediter不建議直接將所有內容表示為safe
+			You should never declare raw user inputs as |safe without any measures taken server-side.
+			其建議Filter content server-side: https://ckeditor.com/docs/ckeditor4/latest/guide/dev_best_practices.html#filter-content-server-side
+			
+			
+		利用第三方套件如：Bleach，過濾內容後再將文本寫入DB
+			Goals of Bleach: https://bleach.readthedocs.io/en/latest/goals.html#main-goal-is-to-sanitize-input-of-malicious-content
+			Sanitizing text fragments: https://bleach.readthedocs.io/en/latest/clean.html
+
+11. flask-login
+	11.2 解釋login_manager的作用
+		@login_manager.user_loader
+		def load_user(user_id):
+			return User.query.get(int(user_id))
+		當您登錄時，Flask-Login 會創建一個包含您的 User.id 的 cookie。 這只是一個 id，一個字符串，而不是 User 對象本身。此時，它不知道您的姓名或電子郵件等。當您進入一個嘗試訪問 current_user 及其屬性的新頁面時，例如我們在機密頁面上打印用戶名時，Flask-Login需要藉由存儲的user_id創建一個user物件，這通過調用 user_loader 修飾函數來實現。 因此，即使我們沒有顯式調用該函數，實際上我們在每個頁面上都使用了它。
+		
+	11.3 @login_required
+		修飾該url需要登入才可以訪問
+		
+	11.4 登入錯誤訊息，利用flask-flash
+		{% with messages = get_flashed_messages() %}
+			{% if messages %}
+				{% for message in messages %}
+				<p>{{ message }}</p>
+				{% endfor %}
+			{% endif %}
+		{% endwith %}
+		
+		falsk-flash文檔
+		https://flask.palletsprojects.com/en/2.0.x/patterns/flashing/
+		with statement建立變數在該區域使用
+		https://stackoverflow.com/questions/29549259/how-does-the-with-statement-work-in-flask-jinja2
+
+
+	11.5 利用werkzeug對明碼做加密
+		可以調整hash_function, salt-length, salt-round
+		werkzeug中generate_password_hash需要指定加密方式，但check_password_hash卻不需要
+			因為實際上存儲在資料庫的內容長這樣
+			pbkdf2:sha256:150000$EPfD4i7C$82577ab83c0717db61dd33410547417a73a8f4190ff3c057777bb149b33a08db
+			the method is this part:pbkdf2:sha256
+			the cycle count is 150000
+			the salt is: $EPfD4i7C$
+			and the rest is the salted hash
+			check_password_hash()直接對輸入的明碼做以上操作去做對比
+			
+	11.6 關於current_user
+		Flask實作_ext_11_Flask-Login_登入狀態管理
+		https://hackmd.io/@shaoeChen/ryvr_ly8f?type=view
+		
+		在login_user(user)之後，我們就可以透過current_user.id來取得用戶的相關資訊了
+		後續就可以直接利用current_user隨處取得目前的使用者相關資訊(依個人實作User類設置而定)
+
+		code-sample:
+			{% if current_user.is_authenticated %}
+			  Hi {{ current_user.name }}!
+			{% endif %}
+
+		Anonymous Users
+			尚未登入的使用者為AnonymousUserMixin object. 
+			其屬性及方法的回傳結果如下：
+				is_active and is_authenticated are False
+				is_anonymous is True
+				get_id() returns None
+				
+	11.7 Protect Routes: 實現@admin_only
+		參考@login_required
+			https://flask.palletsprojects.com/en/1.1.x/patterns/viewdecorators/#login-required-decorator
+		關於＠wraps
+			https://medium.com/@op880623/python-wraps-b75114610bac
+			讓__name__, __doc__等基本訊息維持function的基本訊息，而不是被wrapper的基本訊息所取代
+			 it helps prevent decorators from masking identity of the decorated functions. Thus, the functions can keep their metadata(fuction name, docstrings etc.) even after they are decorated by decorators.
+		decorator可以複習：D54,55
+		
+		flask Raises an HTTPException
+			from flask import abort
+			abort(403)
+			https://flask.palletsprojects.com/en/1.1.x/patterns/errorpages/
+			
+		
+前端
+1. 快速修改模板
+下載html模板後，可以在console輸入document.body.contentEditable=true，即可直接修改HTML的內容，在將HTML另存下來使用。
+
+2. 網頁開發資源
+	免費html樣板：https://html5up.net/
+	免費可商用圖片：https://unsplash.com/
+	font awesome => 免費圖示使用
+	bootsnipp => bootstrap部分片段範本
+	
+3. em vs rem
+	https://www.hexschool.com/2016/01/02/2016-08-08-em-vs-rem/
+
+4. CDN(content delivery network)的概念 => 載入css、js、jquery
+	若裡用CDN加載資源，若用戶有相關cache就會直接使用
+	若使用自己本地的檔案，每次用戶都需要重新載入你本地端的檔案，因為browser認不出來
+
+5. Wireframe、Mockup 和Prototype
+	手繪wireframe=> https://sneakpeekit.com/
+	UI-design_pattern參考 => http://ui-patterns.com/patterns
+	網站參考 => https://dribbble.com/search/website
+
+
+6. google-font使用上有改版
+	調用該字體時要指定字體粗度(font-weight)才能指定自己嵌入字體的thin、light、regular、bold
+
+7. bootstrap使用:navbar、grid-system(row、col)、container(-fluid)、btn、carousel、card
+	responsive web design
+
+8. css-positon
+	https://zh-tw.learnlayout.com/position.html
+	課程383、384
+	
+8.5 advanced css：Z-index
+
+9. advanced css:Media Query Breakpoints
+	mobile-friendly-test
+	https://search.google.com/test/mobile-friendly
+
+10. combining selectors
+	multiple selectors => h1,h2
+	hierarchical selectors => #title container
+	combined selectors => selector1.selector2
+
+11. selector priority
+	行內style => html內style => 外部CSS(導入有優先順序)
+	越具體越優先：ID => class => tag
+	少用ID，盡量使用class，ID主要用在herf導覽網頁和套件規範裡必要使用時
+	盡量只在一個tag上使用一個class，由多個class複合來組合效果時，若容易產生衝突且不易釐清
+	盡量少內行內style，所有css都可以從外部css導入，讓HTML集中在清晰的架構
+	
+12. Gravatar
+	Image Requests
+	http://en.gravatar.com/site/implement/images
+	gravatar配置和使用【讓你的網站使用全球通用頭像】
+	https://www.cnblogs.com/xishuai/p/3611398.html
+	Flask Gravatar’s documentation!
+	https://pythonhosted.org/Flask-Gravatar/
+
+
+
+
+
+
+
+	
+

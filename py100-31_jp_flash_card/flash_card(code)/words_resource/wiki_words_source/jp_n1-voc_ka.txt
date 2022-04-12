@@ -1,0 +1,710 @@
+仮, か -tentative, provisional
+科, か -department, section
+個, か -article counter
+下位, かい -low rank, subordinate, lower order (e.g. byte)
+改悪, かいあく -deterioration, changing for the worse
+海運, かいうん -maritime, marine transportation
+改革, かいかく -reform, reformation, innovation
+貝殻, かいがら -shell
+階級, かいきゅう -class, rank, grade
+海峡, かいきょう -channel
+会見, かいけん -interview, audience
+介護, かいご -nursing
+開催, かいさい -holding a meeting, open an exhibition
+回収, かいしゅう -collection, recovery
+改修, かいしゅう -repair, improvement
+怪獣, かいじゅう -monster
+解除, かいじょ -cancellation, rescinding, release, calling off
+回送, かいそう -forwarding
+階層, かいそう -class, level, stratum, hierarchy
+開拓, かいたく -reclamation (of wasteland), cultivation, pioneer
+会談, かいだん -conversation, conference, discussion, interview
+改定, かいてい -reform
+改訂, かいてい -revision
+街道, かいどう -highway
+介入, かいにゅう -intervention
+開発, かいはつ -development, exploitation
+海抜, かいばつ -height above sea level
+介抱, かいほう -nursing, looking after
+解剖, かいぼう -dissection, autopsy
+回覧, かいらん -circulation
+海流, かいりゅう -ocean current
+改良, かいりょう -improvement, reform
+回路, かいろ -circuit (electric)
+顧みる, かえりみる -to look back, to turn around, to review
+省みる, かえりみる -to reflect
+返る, かえる -to return, to come back, to go back
+顔付き, かおつき -(outward) looks, features, face, countenance, expression
+掲げる, かかげる -to publish, to print, to carry (an article), to put up, to hang out, to hoist, to fly (a sail), to float (a
+踵, かかと -(shoe) heel
+係り, かかり -official, duty, person in charge
+課外, かがい -extracurricular
+書き取り, かきとり -dictation
+書き取る, かきとる -to write down, to take dictation, to take notes
+掻き回す, かきまわす -to stir up, to churn, to ransack, to disturb
+欠く, かく -to lack, to break, to crack, to chip
+角, かく -1. angle, 2. bishop (shogi)
+核, かく -nucleus, kernel
+格, かく -status, character, case
+佳句, かく -beautiful passage of literature
+画, かく -stroke
+格差, かくさ -qualitative difference, disparity
+拡散, かくさん -scattering, diffusion
+各種, かくしゅ -every kind, all sorts
+隔週, かくしゅう -every other week
+確信, かくしん -conviction, confidence
+革新, かくしん -reform, innovation
+確定, かくてい -definition (math), decision, settlement
+獲得, かくとく -acquisition, possession
+確保, かくほ -guarantee, ensure, maintain, insure, secure
+革命, かくめい -revolution
+確立, かくりつ -establishment
+賭け, かけ -betting, gambling, a gamble
+掛け, かけ -credit
+駆け足, かけあし -running fast, double time
+家計, かけい -household economy, family finances
+駆けっこ, かけっこ -(foot) race
+駆ける, かける -to run (race esp. horse), to gallop, to canter
+賭ける, かける -to wager, to bet, to risk, to stake, to gamble
+加工, かこう -manufacturing, processing, treatment
+化合, かごう -chemical combination
+嵩張る, かさばる -to be bulky, to be unwieldy, to grow voluminous
+嵩む, かさむ -to pile up, to increase
+風車, かざぐるま -1. windmill, 2. pinwheel
+畏まりました, かしこまりました -certainly!
+華奢, かしゃ -luxury, pomp, delicate, slender, gorgeous
+箇所, かしょ -passage, place, point, part
+火傷, かしょう -burn, scald
+箇条書き, かじょうがき -itemized form, itemization
+噛る, かじる -to chew, to bite (at), to gnaw, to nibble, to munch, to crunch, to have a smattering of
+微か, かすか -faint, dim, weak, indistinct, hazy, poor, wretched
+霞む, かすむ -to grow hazy, to be misty
+化する, かする -to change into, to convert into, to transform, to be reduced, to influence, to improve (someone)
+擦る, かする -to touch lightly, to take a percentage (from)
+火星, かせい -Mars (planet)
+化石, かせき -fossil, petrifaction, fossilization
+河川, かせん -rivers
+化繊, かせん -synthetic fibres
+過疎, かそ -depopulation
+過多, かた -excess, superabundance
+難い, かたい -difficult, hard
+片思い, かたおもい -unrequited love
+敵, かたき -enemy, rival
+気質, かたぎ -spirit, character, trait, temperament, disposition
+片言, かたこと -a smattering, talk like a baby, speak haltingly
+片付け, かたづけ -tidying up, finishing
+傾く, かたぶく -to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to
+傾ける, かたむける -to incline, to list, to bend, to lean, to tip, to tilt, to slant, to concentrate on, to ruin (a country), to
+固める, かためる -to harden, to freeze, to fortify
+偏る, かたよる -to be one-sided, to incline, to be partial, to be prejudiced, to lean, to be biased
+傍ら, かたわら -beside(s), while, nearby
+課題, かだい -subject, theme, task
+花壇, かだん -flower bed
+家畜, かちく -domestic animals, livestock, cattle
+画期, かっき -epoch-making
+活発, かっぱつ -vigor, active
+且つ, かつ -yet, and
+割, かつ -divide, cut, halve, separate, split, rip, break, crack, smash, dilute
+嘗て, かつて -once, ever
+日付, かづけ -date, dating
+門, かど -gate
+叶う, かなう -to come true (wish)
+叶える, かなえる -to grant (request wish)
+金槌, かなづち -1. (iron) hammer, 2. punishment
+鉄棒, かなぼう -iron rod, crowbar, horizontal bar (gymnastics)
+可成, かなり -considerably, fairly, quite
+加入, かにゅう -becoming a member, joining, entry, admission, subscription, affiliation, adherence, signing
+金庫, かねぐら -safe, vault, treasury, provider of funds
+予言, かねごと -prediction, promise, prognostication
+兼ねて, かねて -simultaneously
+下番, かばん -going off duty
+下品, かひん -inferior article
+華美, かび -pomp, splendor, gaudiness
+花粉, かふん -pollen
+株式, かぶしき -stock (company)
+気触れる, かぶれる -to react to, to be influenced by, to go overboard for
+貨幣, かへい -money, currency, coinage
+構え, かまえ -posture, pose, style
+構える, かまえる -to set up
+加味, かみ -seasoning, flavoring
+噛み切る, かみきる -to bite off, to gnaw through
+過密, かみつ -crowded
+瓶, かめ -earthenware pot
+かも知れない, かもしれない -may, might, perhaps, may be, possibly
+粥, かゆ -(rice) gruel
+痒い, かゆい -itchy, itching
+揶揄う, からかう -to ridicule, to tease, to banter with, to make fun of
+身体, からだ -the body
+体付き, からだつき -body build, figure
+絡む, からむ -to entangle, to entwine
+借り, かり -borrowing, debt, loan
+下吏, かり -lower official
+加留多, かるた -(pt:) (n) playing cards (pt: carta)
+涸れる, かれる -to dry up, to run out
+過労, かろう -overwork, strain
+辛うじて, かろうじて -barely, narrowly, just manage to do st
+側, かわ -side, row, surroundings, part, (watch) case
+可愛い, かわいい -pretty, cute, lovely, charming, dear, darling, pet
+可愛がる, かわいがる -to love, to be affectionate
+可哀想, かわいそう -poor, pitiable, pathetic
+可愛らしい, かわいらしい -lovely, sweet
+交わす, かわす -to exchange (messages), to dodge, to parry, to avoid, to turn aside
+代わる, かわる -to take the place of, to relieve, to be substituted for, to be exchanged, to change places with, to take
+代わる代わる, かわるがわる -alternately
+乾, かん -heaven, emperor
+管, かん -pipe, tube
+幹, かん -(tree) trunk
+冠, かん -crown, diadem, first, best, peerless, cap, naming, designating, initiating on coming of age, top character ra
+観, かん -look, appearance, spectacle
+館, かん -house, hall, building, hotel, inn, guesthouse
+簡易, かんい -simplicity, easiness, quasi-
+感慨, かんがい -strong feelings, deep emotion
+寒気, かんき -cold, frost, chill
+簡潔, かんけつ -brevity, conciseness, simplicity
+還元, かんげん -resolution, reduction, return to origins
+刊行, かんこう -publication, issue
+慣行, かんこう -customary practice, habit, traditional event
+勧告, かんこく -advice, counsel, remonstrance, recommendation
+看護, かんご -nursing, (army) nurse
+漢語, かんご -Chinese word, Sino-Japanese word
+換算, かんさん -conversion, change, exchange
+監視, かんし -observation, guarding, inspection, surveillance
+慣習, かんしゅう -usual (historical) custom
+観衆, かんしゅう -spectators, onlookers, members of the audience
+干渉, かんしょう -interference, intervention
+感触, かんしょく -sense of touch, feeling, sensation
+肝心, かんじん -essential, fundamental, crucial, vital, main
+歓声, かんせい -cheer, shout of joy
+感染, かんせん -infection, contagion
+幹線, かんせん -main line, trunk line
+関税, かんぜい -customs, duty, tariff
+簡素, かんそ -simplicity, plain
+観点, かんてん -point of view
+感度, かんど -sensitivity, severity (quake)
+幹部, かんぶ -management, (executive) staff, leaders
+勘弁, かんべん -pardon, forgiveness, forbearance
+完璧, かんぺき -perfection, completeness, flawless
+感無量, かんむりょう -deep feeling, inexpressible feeling, filled with emotion
+勧誘, かんゆう -invitation, solicitation, canvassing, inducement, persuasion, encouragement
+関与, かんよ -participation, taking part in, participating in, being concerned in
+慣用, かんよう -common, customary
+寛容, かんよう -forbearance, tolerance, generosity
+観覧, かんらん -viewing
+官僚, かんりょう -bureaucrat, bureaucracy
+慣例, かんれい -custom, precedent, of convention
+還暦, かんれき -60th birthday
+貫禄, かんろく -presence, dignity
+緩和, かんわ -relief, mitigation
+蓋, がい -cover, lid, cap
+街, がい -~street, ~quarters
+外貨, がいか -imported goods, foreign money
+外観, がいかん -appearance, exterior, facade
+外相, がいしょう -Foreign Minister
+害する, がいする -to injure, to damage, to harm, to kill, to hinder
+概説, がいせつ -general statement, outline
+該当, がいとう -corresponding, answering to, coming under
+街頭, がいとう -in the street
+概念, がいねん -general idea, concept, notion
+外来, がいらい -imported, outpatient clinic
+概略, がいりゃく -outline, summary, gist, in brief
+学芸, がくげい -arts and sciences, liberal arts
+学士, がくし -university graduate
+学説, がくせつ -theory
+楽譜, がくふ -score (music)
+学歴, がくれき -academic background
+崖, がけ -cliff
+雅致, がち -artistry, good taste, elegance, grace
+がっくり -heartbroken
+合唱, がっしょう -chorus, singing in a chorus
+がっしり -firmly, solidly, tough
+合致, がっち -agreement, concurrence, conforming to
+がっちり -solidly built, tightly, shrewd, calculating
+月日, がっぴ -(the) date
+合併, がっぺい -combination, union, amalgamation, consolidation, merger, coalition, fusion, annexation, affiliation, incorpor
+がる -feel
+側, がわ -side, row, surroundings, part, (watch) case
+癌, がん -cancer
+眼科, がんか -ophthalmology
+眼球, がんきゅう -eyeball
+眼鏡, がんきょう -spectacles, glasses
+頑固, がんこ -stubbornness, obstinacy
+願書, がんしょ -written application or petition
+頑丈, がんじょう -solid, firm, stout, burly, strong, sturdy
+岩石, がんせき -rock
+元年, がんねん -first year (of a specific reign)
+贋物, がんぶつ -imitation, counterfeit, forgery, sham
+元来, がんらい -originally, primarily, essentially, logically, naturally
+生, き -pure, undiluted, raw, crude
+期, き -period, time
+企画, きかく -planning, project
+規格, きかく -standard, norm
+着飾る, きかざる -to dress up
+器官, きかん -organ (of body), instrument
+季刊, きかん -quarterly (e.g. magazine)
+危害, きがい -injury, harm, danger
+気兼ね, きがね -hesitance, diffidence, feeling constraint, fear of troubling someone, having scruples about doing someth
+気軽, きがる -cheerful, buoyant, lighthearted
+危機, きき -crisis
+聞き取り, ききとり -listening comprehension
+効き目, ききめ -effect, virtue, efficacy, impression
+帰京, ききょう -returning to Tokyo
+基金, ききん -fund, foundation
+棄権, きけん -abstain from voting, renunciation of a right
+喜劇, きげき -comedy, funny show
+起源, きげん -origin, beginning, rise
+機構, きこう -mechanism, organization
+既婚, きこん -marriage, married
+記載, きさい -mention, entry
+気障, きざ -affectation, conceit, snobbery
+兆し, きざし -signs, omen, symptoms
+兆, きざし -signs, omen, symptoms
+軋む, きしむ -to jar, to creak, to grate
+気象, きしょう -weather, climate
+期日, きじつ -fixed date, settlement date
+記述, きじゅつ -describing, descriptor
+奇数, きすう -odd number
+築く, きずく -to build, to pile up, to amass
+傷付く, きずつく -to be hurt, to be wounded, to get injured
+規制, きせい -regulation
+汽船, きせん -steamship
+寄贈, きそう -donation, presentation
+貴族, きぞく -noble, aristocrat
+鍛える, きたえる -to forge, to drill, to temper, to train, to discipline
+来る, きたる -to come, to arrive, to be due to, to be next, to be forthcoming
+気立て, きだて -disposition, nature
+きちっと -exactly, perfectly
+几帳面, きちょうめん -methodical, punctual, steady
+切っ掛け, きっかけ -chance, start, cue, excuse, motive, impetus, occasion
+きっかり -exactly, precisely
+喫茶, きっさ -tea drinking, tea house
+きっちり -precisely, tightly
+屹度, きっと -1. (uk) surely, undoubtedly, certainly, without fail, 2. sternly, severely
+きっぱり -clearly, plainly, distinctly
+規定, きてい -regulation, provisions
+起点, きてん -starting point
+軌道, きどう -orbit, railroad track
+甲, きのえ -1st in rank, first sign of the Chinese calendar, shell, instep, grade A
+気配, きはい -indication, market trend, worry
+規範, きはん -model, standard, pattern, norm, criterion, example
+気品, きひん -aroma
+気風, きふう -character, traits, ethos
+起伏, きふく -undulation
+規模, きぼ -scale, scope, plan, structure
+気まぐれ, きまぐれ -whim, caprice, whimsy, fickle, moody, uneven temper
+生真面目, きまじめ -too serious, person who is too serious, honesty, sincerity
+期末, きまつ -end of term
+決まり悪い, きまりわるい -feeling awkward, being ashamed
+決まる, きまる -to be decided, to be settled, to look good in (clothes)
+記名, きめい -signature, register
+脚色, きゃくしょく -dramatization (e.g. film)
+脚本, きゃくほん -scenario
+客観, きゃっかん -objective
+規約, きやく -agreement, rules, code
+救援, きゅうえん -relief, rescue, reinforcement
+休学, きゅうがく -temporary absence from school, suspension
+究極, きゅうきょく -ultimate, final, eventual
+窮屈, きゅうくつ -narrow, tight, stiff, rigid, uneasy, formal, constrained
+球根, きゅうこん -(plant) bulb
+救済, きゅうさい -relief, aid, rescue, salvation, help
+給食, きゅうしょく -school lunch, providing a meal
+給仕, きゅうじ -office boy (girl), page, waiter
+休戦, きゅうせん -truce, armistice
+旧知, きゅうち -old friend, old friendship
+宮殿, きゅうでん -palace
+窮乏, きゅうぼう -poverty
+丘陵, きゅうりょう -hill
+共, きょう -both, neither (neg), all, and, as well as, including, with, together with, plural ending
+供, きょう -offer, present, submit, serve (a meal), supply
+驚異, きょうい -wonder, miracle
+教員, きょういん -teaching staff
+教科, きょうか -subject, curriculum
+協会, きょうかい -association, society, organization
+共感, きょうかん -sympathy, response
+共学, きょうがく -coeducation
+協議, きょうぎ -conference, consultation, discussion, negotiation
+教訓, きょうくん -lesson, precept, moral instruction
+境遇, きょうぐう -environment, circumstances
+強行, きょうこう -forcing, enforcement
+強硬, きょうこう -firm, vigorous, unbending, unyielding, strong, stubborn
+凶作, きょうさく -bad harvest, poor crop
+共産, きょうさん -communism
+教材, きょうざい -teaching materials
+教習, きょうしゅう -training, instruction
+郷愁, きょうしゅう -nostalgia, homesickness
+教職, きょうしょく -teaching certificate, the teaching profession
+享受, きょうじゅ -reception, acceptance, enjoyment, being given
+興じる, きょうじる -to amuse oneself, to make merry
+強制, きょうせい -obligation, coercion, compulsion, enforcement
+共存, きょうそん -coexistence
+姉妹, きょうだい -sisters
+協調, きょうちょう -co-operation, conciliation, harmony, firm (market) tone
+協定, きょうてい -arrangement, pact, agreement
+脅迫, きょうはく -threat, menace, coercion, terrorism
+共鳴, きょうめい -resonance, sympathy
+郷里, きょうり -birth-place, home town
+強烈, きょうれつ -strong, intense, severe
+共和, きょうわ -republicanism, cooperation
+曲, きょく -tune, piece of music
+局限, きょくげん -limit, localize
+極端, きょくたん -extreme, extremity
+居住, きょじゅう -residence
+拒絶, きょぜつ -refusal, rejection
+拒否, きょひ -denial, veto, rejection, refusal
+許容, きょよう -permission, pardon
+距離, きょり -distance, range
+寄与, きよ -contribution, service
+清らか, きよらか -clean, pure, chaste
+気楽, きらく -at ease, comfortable
+煌びやか, きらびやか -gorgeous, gaudy, dazzling, gay
+切り, きり -limits, end, bounds, period, place to leave off, closing sentence, all there is, only, since
+桐, きり -paulownia tree
+切り替える, きりかえる -to change, to exchange, to convert, to renew, to throw a switch, to replace, to switch over
+気流, きりゅう -atmospheric current
+奇麗, きれい -pretty, clean, nice, tidy, beautiful, fair
+切れ目, きれめ -break, pause, gap, end, rift, interruption, cut, section, notch, incision, end (of a task)
+際, きわ -edge, brink, verge, side
+木綿, きわた -cotton
+極めて, きわめて -exceedingly, extremely
+僅, きん -a little, small quantity
+近眼, きんがん -nearsightedness, shortsightedness, myopia
+緊急, きんきゅう -urgent, pressing, emergency
+近々, きんきん -nearness, before long
+近郊, きんこう -suburbs, outskirts
+均衡, きんこう -equilibrium, balance
+近視, きんし -shortsightedness
+禁じる, きんじる -to prohibit
+禁ずる, きんずる -to forbid, to suppress
+勤勉, きんべん -industry, diligence
+勤務, きんむ -service, duty, work
+禁物, きんもつ -taboo, forbidden thing
+勤労, きんろう -labor, exertion, diligent service
+議案, ぎあん -legislative bill
+戯曲, ぎきょく -play, drama
+議決, ぎけつ -resolution, decision, vote
+議事堂, ぎじどう -Diet building
+犠牲, ぎせい -sacrifice
+偽造, ぎぞう -forgery, falsification, fabrication, counterfeiting
+議題, ぎだい -topic of discussion, agenda
+技能, ぎのう -technical skill, ability, capacity
+逆転, ぎゃくてん -(sudden) change, reversal, turn-around, coming from behind (baseball)
+行, ぎょう -line, row, verse
+業者, ぎょうしゃ -trader, merchant
+行政, ぎょうせい -administration
+業績, ぎょうせき -achievement, performance, results, work, contribution
+業務, ぎょうむ -business, affairs, duties, work
+玉, ぎょく -king (shogi)
+漁船, ぎょせん -fishing boat
+漁村, ぎょそん -fishing village
+義理, ぎり -duty, sense of duty, honor, decency, courtesy, debt of gratitude, social obligation
+疑惑, ぎわく -doubt, misgivings, distrust, suspicion
+吟味, ぎんみ -testing, scrutiny, careful investigation
+区, く -ward, district, section
+食い違う, くいちがう -to cross each other, to run counter to, to differ, to clash, to go awry
+空腹, くうふく -hunger
+区画, くかく -division, section, compartment, boundary, area, block
+区間, くかん -section (of track etc)
+茎, くき -stalk
+区切り, くぎり -an end, a stop, punctuation
+潜る, くぐる -1. to drive, to pass through, 2. to evade, to hide, 3. to dive (into or under water), to go undergro
+種々, くさぐさ -variety
+嚏, くしゃみ -sneeze
+旧事, くじ -past events, bygones
+籤引, くじびき -lottery, drawn lot
+擽ぐったい, くすぐったい -ticklish
+草臥れる, くたびれる -to get tired, to wear out
+下らない, くだらない -good-for-nothing, stupid, trivial, worthless
+件, くだん -example, precedent, the usual, the said, the above-mentioned, (man) in question
+口ずさむ, くちずさむ -to hum something, to sing to oneself
+嘴, くちばし -beak, bill
+朽ちる, くちる -to rot
+くっきり -distinctly, clearly, boldly
+屈折, くっせつ -bending, indentation, refraction
+くっ付く, くっつく -to adhere to, to keep close to
+くっ付ける, くっつける -to attach
+覆す, くつがえす -to overturn, to upset, to overthrow, to undermine
+諄い, くどい -verbose, importunate, heavy (taste)
+国境, くにざかい -national or state border
+首飾り, くびかざり -necklace
+首輪, くびわ -necklace, choker
+組み合わせ, くみあわせ -combination
+組み合わせる, くみあわせる -to join together, to combine, to join up
+組み込む, くみこむ -to insert, to include, to cut in (printing)
+蔵, くら -warehouse, cellar, magazine, granary, godown, depository, treasury, elevator
+苦しめる, くるしめる -to torment, to harass, to inflict pain
+包む, くるむ -to be engulfed in, to be enveloped by, to wrap up, to tuck in, to pack, to do up, to cover with, to dress i
+呉れ呉れも, くれぐれも -repeatedly, sincerely, earnestly
+呉れる, くれる -to give, to let one have, to do for one, to be given
+玄人, くろうと -expert, professional, geisha, prostitute
+黒字, くろじ -balance (figure) in the black
+君主, くんしゅ -ruler, monarch
+愚痴, ぐち -idle complaint, grumble
+ぐっと -firmly, fast, much, more
+ぐらい -approximately
+群, ぐん -group (math)
+軍艦, ぐんかん -warship, battleship
+群集, ぐんしゅう -(social) group, crowd, throng, mob, multitude
+軍事, ぐんじ -military affairs
+軍備, ぐんび -armaments, military preparations
+軍服, ぐんぷく -military or naval uniform
+刑, けい -penalty, sentence, punishment
+頃, けい -time, about, toward, approximately (time)
+傾, けい -lean, incline
+系, けい -system, lineage, group
+経過, けいか -passage, expiration, progress
+軽快, けいかい -rhythmical (e.g. melody), casual (e.g. dress), light, nimble
+警戒, けいかい -warning, admonition, vigilance
+計器, けいき -meter, gauge
+契機, けいき -opportunity, chance
+敬具, けいぐ -Sincerely yours
+軽減, けいげん -abatement
+掲載, けいさい -appearance (e.g. article in paper)
+傾斜, けいしゃ -inclination, slant, slope, bevel, list, dip
+形成, けいせい -formation
+形勢, けいせい -condition, situation, prospects
+軽率, けいそつ -rash, thoughtless, careless, hasty
+携帯, けいたい -carrying something
+形態, けいたい -form, shape, figure
+刑罰, けいばつ -judgement, penalty, punishment
+経費, けいひ -expenses, cost, outlay
+警部, けいぶ -police inspector
+軽蔑, けいべつ -scorn, disdain
+経歴, けいれき -personal history, career
+経路, けいろ -course, route, channel
+汚す, けがす -to disgrace, to dishonour
+汚らわしい, けがらわしい -filthy, unfair
+汚れ, けがれ -uncleanness, impurity, disgrace
+汚れる, けがれる -to get dirty, to become dirty
+獣, けだもの -beast, brute
+吝嗇, けち -stinginess, miser, miserliness, skinflint, tightwad, niggard, pinching pennies
+結核, けっかく -tuberculosis, tubercule
+血管, けっかん -blood vessel
+決行, けっこう -doing (with resolve), carrying out (i.e. a plan)
+決算, けっさん -balance sheet, settlement of accounts
+決勝, けっしょう -decision of a contest, finals (in sports)
+結晶, けっしょう -crystal, crystallization
+結成, けっせい -formation
+結束, けっそく -union, unity
+傑, けつ -excellence
+決意, けつい -decision, determination
+決議, けつぎ -resolution, vote, decision
+結合, けつごう -combination, union
+決断, けつだん -decision, determination
+欠乏, けつぼう -want, shortage, famine
+蹴飛ばす, けとばす -to kick away, to kick off, to kick (someone), to refuse, to reject
+貶す, けなす -to speak ill of
+煙たい, けむたい -smoky, feeling awkward
+煙る, けむる -to smoke (e.g. fire)
+家来, けらい -retainer, retinue, servant
+けれど -but, however
+圏, けん -sphere, circle, range
+権, けん -authority, the right (to do something)
+権威, けんい -authority, power, influence
+兼業, けんぎょう -side line, second business
+権限, けんげん -power, authority, jurisdiction
+健在, けんざい -in good health, well
+懸賞, けんしょう -offering prizes, winning, reward
+検事, けんじ -public prosecutor
+健全, けんぜん -health, soundness, wholesome
+見地, けんち -point of view
+賢明, けんめい -wisdom, intelligence, prudence
+倹約, けんやく -thrift, economy, frugality
+兼用, けんよう -multi-use, combined use, combination, serving two purposes
+権力, けんりょく -power, authority, influence
+劇団, げきだん -troupe, theatrical company
+激励, げきれい -encouragement
+月謝, げっしゃ -monthly tuition fee
+げっそり -being disheartened, losing weight
+月賦, げっぷ -monthly installment
+下痢, げり -diarrhoea
+原, げん -original, primitive, primary, fundamental, raw
+原形, げんけい -original form, base form
+現行, げんこう -present, current, in operation
+原作, げんさく -original work
+原子, げんし -atom
+元首, げんしゅ -ruler, sovereign
+原書, げんしょ -original document
+減少, げんしょう -decrease, reduction, decline
+現場, げんじょう -actual spot, scene, scene of the crime
+元素, げんそ -chemical element
+原則, げんそく -principle, general rule
+現像, げんぞう -developing (film)
+現地, げんち -actual place, local
+限定, げんてい -limit, restriction
+原点, げんてん -origin (coordinates), starting point
+原典, げんてん -original (text)
+減点, げんてん -subtract, give a demerit
+原爆, げんばく -atomic bomb
+原文, げんぶん -the text, original
+厳密, げんみつ -strict, close
+原油, げんゆ -crude oil
+言論, げんろん -discussion
+故, こ -the late (deceased)
+戸, こ -counter for houses
+児, こ -child, the young of animals
+巨, こ -big, large, great
+恋する, こいする -to fall in love with, to love
+溝, こう -10^38, hundred undecillion (American), hundred sextillion (British)
+好意, こうい -good will, favor, courtesy
+行為, こうい -act, deed, conduct
+行員, こういん -bank clerk
+交易, こうえき -trade, commerce
+公演, こうえん -public performance
+後悔, こうかい -regret, repentance
+公開, こうかい -presenting to the public
+航海, こうかい -sail, voyage
+工学, こうがく -engineering
+皇居, こうきょ -Imperial Palace
+好況, こうきょう -prosperous conditions, healthy economy
+抗議, こうぎ -protest, objection
+鉱業, こうぎょう -mining industry
+興業, こうぎょう -industrial enterprise
+高原, こうげん -tableland, plateau
+煌々と, こうこうと -brilliantly, brightly
+考古学, こうこがく -archaeology
+交互, こうご -mutual, reciprocal, alternate
+工作, こうさく -work, construction, handicraft, maneuvering
+耕作, こうさく -cultivation, farming
+鉱山, こうざん -mine (ore)
+講習, こうしゅう -short course, training
+交渉, こうしょう -negotiations, discussions, connection
+高尚, こうしょう -high, noble, refined, advanced
+行進, こうしん -march, parade
+香辛料, こうしんりょう -spices
+口述, こうじゅつ -verbal statement
+控除, こうじょ -subsidy, deduction
+向上, こうじょう -elevation, rise, improvement, advancement, progress
+降水, こうすい -rainfall, precipitation
+洪水, こうずい -flood
+公然, こうぜん -open (e.g. secret), public, official
+抗争, こうそう -dispute, resistance
+構想, こうそう -plan, plot, idea, conception
+拘束, こうそく -restriction, restraint
+後退, こうたい -retreat, backspace (BS)
+光沢, こうたく -brilliance, polish, lustre, glossy finish (of photographs)
+公団, こうだん -public corporation
+好調, こうちょう -favourable, promising, satisfactory, in good shape
+口頭, こうとう -oral
+講読, こうどく -reading, translation
+購読, こうどく -subscription (e.g. magazine)
+購入, こうにゅう -purchase, buy
+公認, こうにん -official recognition, authorization, licence, accreditation
+光熱費, こうねつひ -cost of fuel and light
+荒廃, こうはい -ruin
+購買, こうばい -purchase, buy
+好評, こうひょう -popularity, favorable reputation
+交付, こうふ -delivering, furnishing (with copies)
+降伏, こうふく -capitulation, surrender, submission
+興奮, こうふん -excitement, stimulation, agitation, arousal
+公募, こうぼ -public appeal, public contribution
+巧妙, こうみょう -ingenious, skillful, clever, deft
+公用, こうよう -government business, public use, public expense
+小売, こうり -retail
+効率, こうりつ -efficiency
+公立, こうりつ -public (institution)
+小柄, こがら -short (build)
+小切手, こぎって -cheque, check
+国産, こくさん -domestic products
+国定, こくてい -state-sponsored, national
+国土, こくど -realm
+告白, こくはく -confession, acknowledgement
+国防, こくぼう -national defence
+国有, こくゆう -national ownership
+国連, こくれん -U.N., United Nations
+漕ぐ, こぐ -to row, to scull, to pedal
+焦げ茶, こげちゃ -black tea
+個々, ここ -individual, one by one
+箇箇, ここ -individual, separate
+心地, ここち -feeling, sensation, mood
+心得, こころえ -knowledge, information
+心掛け, こころがけ -readiness, intention, aim
+心掛ける, こころがける -to bear in mind, to aim to do
+志, こころざし -will, intention, motive
+志す, こころざす -to plan, to intend, to aspire to, to set aims (sights on)
+心強い, こころづよい -heartening, reassuring
+心細い, こころぼそい -helpless, forlorn, hopeless, unpromising, lonely, discouraging, disheartening
+試み, こころみ -trial, experiment
+試みる, こころみる -to try, to test
+快い, こころよい -pleasant, agreeable
+凝らす, こごらす -to freeze, to congeal
+凝る, こごる -to congeal, to freeze
+拵える, こしらえる -to make, to manufacture
+孤児, こじ -orphan
+拗れる, こじれる -to get complicated, to grow worse
+故人, こじん -the deceased, old friend
+梢, こずえ -treetop
+個性, こせい -individuality, personality, idiosyncrasy
+戸籍, こせき -census, family register
+小銭, こぜに -coins, small change
+固体, こたい -solid (body)
+答え, こたえ -answer, response
+堪える, こたえる -to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, t
+火燵, こたつ -table with heater, (orig) charcoal brazier in a floor well
+古代, こだい -ancient times
+こだわる -to fuss over, to be particular about, to be concerned about
+誇張, こちょう -exaggeration
+滑稽, こっけい -funny, humorous, comical, laughable, ridiculous, joking
+国交, こっこう -diplomatic relations
+骨董品, こっとうひん -curio
+骨, こつ -knack, skill
+固定, こてい -fixation
+事柄, ことがら -matter, thing, affair, circumstance
+悉く, ことごとく -altogether, entirely
+言伝, ことづて -declaration, hearsay
+殊に, ことに -especially, above all
+事によると, ことによると -depending on the circumstances
+孤独, こどく -isolation, loneliness, solitude
+粉々, こなごな -in very small pieces
+此の, この -this
+この間, このあいだ -the other day, lately, recently
+この頃, このごろ -recently
+好ましい, このましい -nice, likeable, desirable
+個別, こべつ -particular case
+零す, こぼす -to spill
+零れる, こぼれる -to overflow, to spill
+細やか, こまやか -friendly
+混む, こむ -to be crowded
+込める, こめる -to include, to put into
+篭る, こもる -to seclude oneself, to be confined in, to be implied, to be stuffy
+固有, こゆう -characteristic, tradition, peculiar, inherent, eigen-
+雇用, こよう -employment (long term), hire
+暦, こよみ -calendar, almanac
+堪える, こらえる -to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, t
+孤立, こりつ -isolation, helplessness
+懲りる, こりる -to learn by experience, to be disgusted with
+此れ, これ -this
+此れ等, これら -these
+魂, こん -soul, spirit
+根気, こんき -patience, perseverance, energy
+根拠, こんきょ -basis, foundation
+混血, こんけつ -mixed race, mixed parentage
+昆虫, こんちゅう -insect, bug
+根底, こんてい -root, basis, foundation
+混同, こんどう -confusion, mixing, merger
+今日は, こんにちは -hello, good day (daytime greeting id)
+今晩は, こんばんは -good evening
+根本, こんぽん -origin, source, foundation, root, base, principle
+御, ご -go-, honourable
+語彙, ごい -vocabulary, glossary
+濠, ごう -moat
+業, ごう -Buddhist karma, actions committed in a former life
+号, ごう -number, issue
+合意, ごうい -agreement, consent, mutual understanding
+合議, ごうぎ -consultation, conference
+強気, ごうぎ -great, grand
+合成, ごうせい -synthesis, composition, synthetic, composite, mixed, combined, compound
+護衛, ごえい -guard, convoy, escort
+語句, ごく -words, phrases
+極楽, ごくらく -paradise
+ご苦労様, ごくろうさま -Thank you very much for your....
+語源, ごげん -word root, word derivation, etymology
+誤差, ごさ -error
+ご座います, ございます -to be (polite), to exist
+ご馳走, ごちそう -feast, treating (someone)
+ご馳走さま, ごちそうさま -feast
+毎, ごと -each respectively
+碁盤, ごばん -Go board
+ご無沙汰, ごぶさた -not writing or contacting for a while
+誤魔化す, ごまかす -to deceive, to falsify, to misrepresent
+御免ください, ごめんください -May I come in?
+御免なさい, ごめんなさい -I beg your pardon, excuse me
+御覧なさい, ごらんなさい -(please) look, (please) try to do

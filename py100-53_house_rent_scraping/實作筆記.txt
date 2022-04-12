@@ -1,0 +1,82 @@
+這次是實際爬取租房網站zillow，有遇到比較多實作問題
+
+1. 要在header加入內容去做偽裝，且模擬使用者操作來抓取動態產生的內容
+	首先為了不被當成機器人必須在header中加入user-agent和accept-language這兩項
+	原課程設計是利用requests搭配bs4來抓取網頁的HTML內容，但即使加入header仍無法用requests爬取道所有需要的內容
+	因為網站本身設計成要使用者滑過去內容才動態產生 => 選擇利用selenium做出向下滑動的效果
+	
+2. bs4補充：想利用css-select當作抓取元素的條件 => 使用select方法
+	參考官方文檔
+	https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/#css
+
+3. 如何在selenium中設置user-agent和accept-language
+	從網路上抓取其它user-agent當作偽裝：Windows User Agents
+		https://developers.whatismybrowser.com/useragents/explore/operating_system_name/windows/
+
+	selenium中替換user-agnet：
+	Change user-agent for Selenium web-driver
+		https://stackoverflow.com/questions/29916054/change-user-agent-for-selenium-web-driver
+		driver = webdriver.Chrome(chrome_options=opts) => 現在webdriver.Chrome已經建議把chrome_options替換成options
+
+	selenium中設置language的做法和替換user-agnet略有不同
+	Trouble modifying the language option in selenium python bindings
+		https://sqa.stackexchange.com/questions/9904/how-to-set-browser-locale-with-chromedriver-python
+	Trouble modifying the language option in selenium python bindings
+		https://stackoverflow.com/questions/55150118/trouble-modifying-the-language-option-in-selenium-python-bindings
+	
+	
+
+4. Xpath中有語法可以抓取最後一個元素
+	/bookstore/book[last()]	選取屬於bookstore 子元素的最後一個book 元素。
+	/bookstore/book[last()-1]	選取屬於bookstore 子元素的倒數第二個book 元素。
+	XPath 語法
+		http://www.w3big.com/zh-TW/xpath/xpath-syntax.html
+		
+
+5. 操作selenium時想打印出完整的element內容debug，可以考慮用outerHTML屬性
+	https://stackoverflow.com/questions/10251525/how-can-i-get-the-current-contents-of-an-element-in-webdriver
+		element.get_attribute('outerHTML')
+	innerHTML、outerHTML、innerText、outerText的區別及相容性問題
+		https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/535052/
+
+
+--------------------ActionChains---------------------------------------
+ActionChain是一種自動化低級交互的方法，例如鼠標移動、鼠標按鈕操作、按鍵和上下文菜單交互。這對於執行更複雜的操作（例如懸停和拖放）非常有用。
+=> 可以對webdriver做更多底層且細節的操作
+from selenium.webdriver.common.action_chains import ActionChains和webdrive.ActionChains這兩個方式都可以叫出ActionChains類
+
+使用上可以參考官方文檔：
+	https://selenium-python.readthedocs.io/api.html?highlight=actionchain#module-selenium.webdriver.common.action_chains
+	https://python-selenium-zh.readthedocs.io/zh_CN/latest/7.2%20%E8%A1%8C%E4%B8%BA%E9%93%BE/
+
+在這次實作中有使用到click_and_hold讓滑鼠點著來突破captcha
+也可以讓driver多次點擊「Keys.PAGE_DOWN」來滾動畫面，讓網頁動態內容產生
+
+
+
+--------------------如何讓目標元素滾動到目前視域中---------------------------------------------------
+分成兩大類
+1. 利用driver.execute_script去調用javascript方法
+	類似以下這幾種方式 => 大多是調用javascript中網頁元素有擁有的屬性或方法
+		driver.execute_script("arguments[0].scrollIntoView();", element)
+		
+		driver.execute_script("window.scrollTo(0, Y)")
+			https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python
+			這個例子中可以看到它把js所得到內容return回來繼續接著使用
+
+		self.driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", modal)
+			https://stackoverflow.com/questions/38041974/selenium-scroll-inside-of-popup-div
+
+
+2. 利用ActionChains
+moveToElement()
+
+---------------關於網頁元素的基本屬性-------------------
+一些關於網頁元素的基本屬性的內容可以用execute_script("return arguments[0].XXXXX")來取得
+
+也有一些可以從attribute獲得
+element.get_attribute('outerHTML')
+
+selenium網頁元素物件中也有一些相關的屬性
+element.location['y']
+element.size

@@ -27,4 +27,4 @@ To practice python implementation, not only follow the course to complete the ex
  6. py100-69_completed_blog  
     - Description: Blog with login, post and comment function. Do basic protection of router and DB, and deploy on Heroku.
     - Key words: Flask, application server
-    - Web link: https://kaka-flask-blog.herokuapp.com/
+    - Blog link: https://kaka-flask-blog.herokuapp.com/

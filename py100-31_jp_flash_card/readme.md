@@ -1,3 +1,9 @@
+
+ <img src="https://user-images.githubusercontent.com/68182100/163341102-479bd2d1-f2f2-4b5c-8b3a-7a2a8a767c0e.png" width="300" alt="start_image"/> <img src="https://user-images.githubusercontent.com/68182100/163341468-82418c52-c008-490f-b229-fa245b38a167.png" width="300" alt="flash_card"/>
+ <img src="https://user-images.githubusercontent.com/68182100/163342715-6d5bfd44-b69d-4fa2-9cdb-feb29015f932.png"  width="600" alt="learning_record"/>
+
+
+
 ## 使用說明  
 1. 以利用pyinstaller打包，可直接執行  
 2. 單字集統一放在words_resource中，預設抓有n1~n5的單字，也可放入自己命名的單字集  

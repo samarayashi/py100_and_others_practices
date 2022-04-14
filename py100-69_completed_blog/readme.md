@@ -1,5 +1,6 @@
 # flask架設部落格  
-![image](https://user-images.githubusercontent.com/68182100/163346529-84ee7d15-80e1-4995-802b-d3a3dad244be.png)
+<img src="https://user-images.githubusercontent.com/68182100/163353497-ca78c190-d81d-4ea6-a016-c820e7dc4093.png" width = "500"/><img src="./db_er_model.png" width = "500"/>  
+  
 Blog link: https://kaka-flask-blog.herokuapp.com/  
 
 ## 技術項目  

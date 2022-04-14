@@ -30,3 +30,4 @@ google表單中，一頁記錄想去的國家與可接受價格，另一頁紀�
 	TWILIO-SMS發送簡訊 - https://www.twilio.com/docs/sms/api
 2. SMTP寄信
 3. PythonAnywhere部署
+

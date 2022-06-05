@@ -10,7 +10,8 @@ def int2ch(num):
     # 製作轉換表，數字轉換表的key為str，進制轉換表的key為int
     ch_nums = ('零', '一', '二', '三', '四', '五', '六', '七', '八', '九')
     ch_bases = ('零', '十', '百', '千', '萬')
-    if num >= 10 ** len(ch_bases):
+
+    if int(num) >= 10 ** len(ch_bases):
         raise ValueError(f"num can't bigger then {10 ** len(ch_bases)=}")
     str_nums = [str(i) for i in range(10)]
     single_dict = dict((zip(str_nums, ch_nums)))
@@ -29,6 +30,11 @@ def int2ch(num):
     trans_num = re.sub(r'零+', '零', trans_num)
     return trans_num
 
+def int2chfloor(int_floor):
+    if int_floor is not None:
+        return int2ch(int_floor)+"層"
+    else:
+        return None
 
 def filter_single_field(row_value, target_value, strict=True):
     if target_value is None:
@@ -46,10 +52,9 @@ def fields_filter(rows, *,
                   building_state=None,
                   strict=True,
                   **other_fields):
-    ch_floor = int2ch(total_floor_number)
     _filter_single_field = partial(filter_single_field, strict=strict)
     for row in rows:
-        if _filter_single_field(row.total_floor_number[:-1], ch_floor) \
+        if _filter_single_field(row.total_floor_number, int2chfloor(total_floor_number)) \
                 and _filter_single_field(row.the_villages_and_towns_urban_district,
                                          the_villages_and_towns_urban_district) \
                 and _filter_single_field(row.building_state, building_state) \
@@ -66,11 +71,18 @@ if __name__ == '__main__':
     print('total_floor_number=10')
     files_iterator = iter_combined_files(fpaths, land_class_name)
     filter_iterator = fields_filter(files_iterator, total_floor_number=10)
-    for row in islice(filter_iterator, 10):
+    for row in islice(filter_iterator, 5):
         print(row)
     print('-----------')
     print('total_floor_number=10', "main_building_area = '9.17'")
     files_iterator = iter_combined_files(fpaths, land_class_name)
     filter_iterator = fields_filter(files_iterator, total_floor_number=10, main_building_area = '9.17')
+    for row in islice(filter_iterator, 5):
+        print(row)
+
+    print('-----------')
+    print("main_building_area = '9.17'")
+    files_iterator = iter_combined_files(fpaths, land_class_name)
+    filter_iterator = fields_filter(files_iterator,  main_building_area='9.17')
     for row in islice(filter_iterator, 10):
         print(row)

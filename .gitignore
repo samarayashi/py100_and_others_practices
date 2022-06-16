@@ -160,4 +160,4 @@ cython_debug/
 .idea/
 
 # crawled data_set
-data_set/
+land_crawler_api/data_set/

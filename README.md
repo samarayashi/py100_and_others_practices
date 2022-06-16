@@ -1,9 +1,11 @@
-# selected works from Python 100 Days
+# Selected practice of Python
+
+##  Python 100 Days
 <img src="https://user-images.githubusercontent.com/68182100/162994380-15ed21ab-443f-4302-a25e-5ac11291eb46.png" alt="course cover" width="50%"/><br>
 Reference course : [*100 Days of Code: The Complete Python Pro Bootcamp for 2022*](https://www.udemy.com/course/100-days-of-code/)  
 To practice python implementation, not only follow the course to complete the exercise, but turn it into a more interesting or practical version.The following is a collection of selected works, covering api, crawlers, web pages, etc. For more detailed descriptions, please refer to the readme file in the individual folders.
 
-## List of works:
+### List of works:
  1. py100-31_jp_flash_card  
      - Description: Flash card for learing vocabulary of JLPT  
      - Key words: Tkinter  
@@ -28,3 +30,8 @@ To practice python implementation, not only follow the course to complete the ex
     - Description: Blog with login, post and comment function. Do basic protection of router and DB, and deploy on Heroku.
     - Key words: Flask, application server
     - Blog link: https://kaka-flask-blog.herokuapp.com/
+
+## others
+1. 參考國泰Data engineer測試的練習
+   - 爬蟲、generator(lazy evaluation)、api
+   - 詳細參考檔案內readme.md

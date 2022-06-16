@@ -6,6 +6,7 @@ import filter_utils
 app = Flask(__name__)
 app.config['JSON_AS_ASCII'] = False
 
+
 @app.route("/all")
 def get_all_data():
     pass
